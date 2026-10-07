@@ -1,0 +1,96 @@
+{
+  "minecraft": "26.2",
+  "java": {
+    "component": "java-runtime-epsilon",
+    "majorVersion": 25
+  },
+  "loader": "0.19.5",
+  "mods": [
+    {
+      "id": "fabric-api",
+      "filename": "fabric-api-0.159.0+26.2.jar",
+      "version": "0.159.0+26.2",
+      "license": "Apache-2.0",
+      "depends": {
+        "fabricloader": ">=0.18.4",
+        "java": ">=25",
+        "minecraft": "~26.2-"
+      }
+    },
+    {
+      "id": "iris",
+      "filename": "iris-fabric-1.11.4+mc26.2.jar",
+      "version": "1.11.4+mc26.2",
+      "license": "LGPL-3.0-only",
+      "depends": {
+        "fabricloader": ">=0.12.3",
+        "sodium": [
+          "0.9.x"
+        ]
+      }
+    },
+    {
+      "id": "reeses-sodium-options",
+      "filename": "reeses-sodium-options-fabric-2.2.4+mc26.2.jar",
+      "version": "2.2.4+mc26.2",
+      "license": "MIT",
+      "depends": {
+        "minecraft": "=26.2",
+        "sodium": "=0.9.2+mc26.2"
+      }
+    },
+    {
+      "id": "rpgcore_enhancement_gui",
+      "filename": "RPGCore-ClientUI.jar",
+      "version": "1.5.1",
+      "license": null,
+      "depends": {
+        "fabricloader": ">=0.19.5",
+        "minecraft": "26.2",
+        "java": ">=25"
+      }
+    },
+    {
+      "id": "sodium-extra",
+      "filename": "sodium-extra-fabric-0.9.3+mc26.2.jar",
+      "version": "0.9.3+mc26.2",
+      "license": "LGPLv3",
+      "depends": {
+        "fabricloader": ">=0.19",
+        "sodium": ">=0.9.1+mc26.2",
+        "minecraft": ">=26.2"
+      }
+    },
+    {
+      "id": "sodium",
+      "filename": "sodium-fabric-0.9.2+mc26.2.jar",
+      "version": "0.9.2+mc26.2",
+      "license": "Polyform-Shield-1.0.0",
+      "depends": {
+        "minecraft": "~26.2",
+        "fabricloader": ">=0.16.0",
+        "fabric-block-getter-api-v2": "*",
+        "fabric-rendering-fluids-v1": ">=2.0.0",
+        "fabric-resource-loader-v0": "*"
+      }
+    }
+  ],
+  "resourcePack": {
+    "version": "RedKingGatePolish-1",
+    "sha256": "170bcf501e76466950bbd6bbb84235201b7b4d723c38ad29169985db0738901a",
+    "metadata": {
+      "pack": {
+        "description": "RPGStudioPack Latest | RedKingGatePolish-1 | 기존 HUD/아이템/스킬/보스 자산 유지",
+        "min_format": [
+          88,
+          0
+        ],
+        "max_format": [
+          88,
+          0
+        ]
+      }
+    }
+  },
+  "authenticationConfigured": false
+}
