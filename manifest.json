@@ -37,10 +37,10 @@
     {
       "name": "RPGCore ClientUI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.6.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/510cd090870cd4a12f3a8678cdb272977fa57224/files/RPGCore-ClientUI.jar",
-      "sha256": "c9c8b8c067fa94aee6c63fbe6ff02e5ada55a6a7904470172c0de64e05ebc476",
-      "size": 9996384,
+      "version": "1.6.1",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/93ac75d87a5fed3c02fb8a47becacb6ef55650ed/files/RPGCore-ClientUI.jar",
+      "sha256": "10959aaa9feab99f075ed05af4f2b8f2f98887dfec883a5f83b6069e69477a55",
+      "size": 9996598,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -68,7 +68,7 @@
   "resourcePack": {
     "name": "RPGStudioPack",
     "version": "RedKingGatePolish-1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/510cd090870cd4a12f3a8678cdb272977fa57224/files/RPGStudioPack-Latest.zip",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/93ac75d87a5fed3c02fb8a47becacb6ef55650ed/files/RPGStudioPack-Latest.zip",
     "sha256": "170bcf501e76466950bbd6bbb84235201b7b4d723c38ad29169985db0738901a",
     "size": 7235986,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
@@ -98,6 +98,6 @@
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
   "launcherUpdateUrl": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/main/HeyRPGLauncher.exe",
-  "launcherSha256": "c83e06d9bfd48f3af47c4edf95d848524cd05c2477acc273225514dc3a2b64b6",
+  "launcherSha256": "90c4e1fb95d553f280a719903d896d16be9a97fb6c2c3c22a4c6e6a435fa01f1",
   "launcherSize": 74203456
 }
