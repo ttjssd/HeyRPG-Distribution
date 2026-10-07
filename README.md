@@ -13,7 +13,7 @@ Minecraft와 Java는 공식 메타데이터에서, Fabric은 공식 Fabric 메�
 manifest.json에 SHA256, 크기, 버전, 서버 설정을 기록합니다. versions.json에 실제 파일 정보를 기록합니다.
 
 ## 로그인 연결
-Microsoft 앱 등록 및 Minecraft API 사용 허용은 운영자가 완료해야 합니다.
-로그인 연결 준비 중 안내가 나오면 운영자의 완료 공지를 기다리세요. 친구가 Client ID를 입력할 필요는 없습니다.
+Microsoft 로그인 Client ID가 배포 설정에 반영되어 있습니다. 친구가 Client ID를 입력할 필요는 없습니다.
+실제 로그인 및 Minecraft API 권한은 운영자가 직접 로그인하여 확인해야 합니다.
 
 이 배포는 Mojang 또는 Microsoft의 공식 제품이 아닙니다.

@@ -92,5 +92,5 @@
       }
     }
   },
-  "authenticationConfigured": false
+  "authenticationConfigured": true
 }
