@@ -1,0 +1,7 @@
+*
+!.gitignore
+!README.md
+!THIRD-PARTY-NOTICES.txt
+!manifest.json
+!versions.json
+!HeyRPGLauncher.exe

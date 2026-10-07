@@ -3,7 +3,7 @@
 HeyRPG 친구용 클라이언트 배포 전용 저장소입니다. 개발 소스·서버·계정 정보는 포함하지 않습니다.
 
 ## 친구 설치
-Releases에서 HeyRPGLauncher.exe 하나만 받으세요. 실행 → 설치 폴더 선택 → Microsoft 로그인 → 게임 시작.
+[최신 HeyRPGLauncher.exe 다운로드](https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/main/HeyRPGLauncher.exe) 파일 하나만 받으세요. 실행 → 설치 폴더 선택 → Microsoft 로그인 → 게임 시작.
 Minecraft Java 이용 권한이 필요합니다. 필요한 Java / Minecraft / Fabric / 필수 모드 / 리소스팩을 런처가 준비합니다.
 기존 .minecraft는 수정하지 않습니다. Windows x64용입니다. 정품 계정 없는 오프라인 우회는 지원하지 않습니다.
 

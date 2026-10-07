@@ -92,6 +92,6 @@
     }
   ],
   "microsoftClientId": null,
-  "launcherUpdateUrl": null,
-  "launcherSha256": null
+  "launcherUpdateUrl": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/main/HeyRPGLauncher.exe",
+  "launcherSha256": "597b590dc6ad316f16dce17e2732a333d1a3f917180db06b16a90bd45cf131db"
 }
