@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "launcherVersion": "1.0.2",
+  "launcherVersion": "1.1.0",
   "minecraftVersion": "26.2",
   "fabricLoader": "0.19.5",
   "mods": [
@@ -37,10 +37,10 @@
     {
       "name": "RPGCore ClientUI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.5.1",
-      "url": "https://github.com/ttjssd/HeyRPG-Distribution/releases/download/client-1.0.0/RPGCore-ClientUI.jar",
-      "sha256": "5e49d91213015c2cd3b675fd787f1492d5ac81e812e0bb0d4d2e9d45ec257523",
-      "size": 5368520,
+      "version": "1.6.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/510cd090870cd4a12f3a8678cdb272977fa57224/files/RPGCore-ClientUI.jar",
+      "sha256": "c9c8b8c067fa94aee6c63fbe6ff02e5ada55a6a7904470172c0de64e05ebc476",
+      "size": 9996384,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -68,7 +68,7 @@
   "resourcePack": {
     "name": "RPGStudioPack",
     "version": "RedKingGatePolish-1",
-    "url": "https://github.com/ttjssd/HeyRPG-Distribution/releases/download/client-1.0.0/RPGStudioPack-Latest.zip",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/510cd090870cd4a12f3a8678cdb272977fa57224/files/RPGStudioPack-Latest.zip",
     "sha256": "170bcf501e76466950bbd6bbb84235201b7b4d723c38ad29169985db0738901a",
     "size": 7235986,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.08",
+      "title": "장비 강화 UI 리워크",
+      "body": "판타지 강화 화면 · 런처 자동 업데이트 · 구버전 관리 파일 정리"
+    },
     {
       "date": "2026.10.07",
       "title": "붉은 기사단 폐허",
@@ -93,5 +98,6 @@
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
   "launcherUpdateUrl": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/main/HeyRPGLauncher.exe",
-  "launcherSha256": "dd6528733c5d206b9410048360c2903423c5ae33df3c51ef3fc16a2d689862b7"
+  "launcherSha256": "c83e06d9bfd48f3af47c4edf95d848524cd05c2477acc273225514dc3a2b64b6",
+  "launcherSize": 74203456
 }

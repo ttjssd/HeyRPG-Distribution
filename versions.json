@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.5.1",
+      "version": "1.6.0",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -92,5 +92,7 @@
       }
     }
   },
-  "authenticationConfigured": true
+  "authenticationConfigured": true,
+  "launcherVersion": "1.1.0",
+  "buildId": "EnhancementAutoUpdate-1"
 }
