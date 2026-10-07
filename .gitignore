@@ -5,3 +5,7 @@
 !manifest.json
 !versions.json
 !HeyRPGLauncher.exe
+!files/
+files/*
+!files/RPGCore-ClientUI.jar
+!files/RPGStudioPack-Latest.zip
