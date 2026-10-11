@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "RedKingIconAwakening-1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/4200d058b012089e09e0254a1139856aeaa67f33/files/RPGStudioPack-Latest.zip",
-    "sha256": "617c77916e4dba027cfc9cca9dba542c11a9403376cf04a7fd7e859d000cfbd7",
-    "size": 37097734,
+    "version": "T1StarterSwordSkills-1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/5320b7c341a457eff4caff0d08b6b5c02066bb73/files/RPGStudioPack-Latest.zip",
+    "sha256": "9cfddf762573dadeed3e0b641a6da8188599e635646c386f1c2fe5059bc9a0b5",
+    "size": 47194800,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.12",
+      "title": "T1 기본 검 검술·VFX 리워크",
+      "body": "배기 / 돌진 베기 / 전방 가르기 / 크게 내려치기 · 청백색 검기와 새 아이콘"
+    },
     {
       "date": "2026.10.12",
       "title": "붉은 기사왕 스킬 아이콘·각성 개선",

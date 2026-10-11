@@ -76,11 +76,11 @@
     }
   ],
   "resourcePack": {
-    "version": "RedKingIconAwakening-1",
-    "sha256": "617c77916e4dba027cfc9cca9dba542c11a9403376cf04a7fd7e859d000cfbd7",
+    "version": "T1StarterSwordSkills-1",
+    "sha256": "9cfddf762573dadeed3e0b641a6da8188599e635646c386f1c2fe5059bc9a0b5",
     "metadata": {
       "pack": {
-        "description": "HeyRPG / RedKingIconAwakening-1",
+        "description": "HeyRPG / T1StarterSwordSkills-1",
         "min_format": [
           88,
           0
@@ -94,5 +94,5 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.1.0",
-  "buildId": "RedKingIconAwakening-1"
+  "buildId": "T1StarterSwordSkills-1"
 }
