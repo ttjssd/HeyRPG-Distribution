@@ -76,11 +76,11 @@
     }
   ],
   "resourcePack": {
-    "version": "RedKingFullSkillVfx-1",
-    "sha256": "908ed56b4c7bcce5b8cb311f900e210323cf8275c41440e98be162cf49ea74d3",
+    "version": "RedKingIconAwakening-1",
+    "sha256": "617c77916e4dba027cfc9cca9dba542c11a9403376cf04a7fd7e859d000cfbd7",
     "metadata": {
       "pack": {
-        "description": "HeyRPG / RedKingFullSkillVfx-1",
+        "description": "HeyRPG / RedKingIconAwakening-1",
         "min_format": [
           88,
           0
@@ -94,5 +94,5 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.1.0",
-  "buildId": "RedKingFullSkillVfx-1"
+  "buildId": "RedKingIconAwakening-1"
 }

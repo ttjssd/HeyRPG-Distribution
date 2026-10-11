@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "RedKingFullSkillVfx-1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/5b3c81d8b5328c2217d2e0a86cf3c6fb85614819/files/RPGStudioPack-Latest.zip",
-    "sha256": "908ed56b4c7bcce5b8cb311f900e210323cf8275c41440e98be162cf49ea74d3",
-    "size": 19531442,
+    "version": "RedKingIconAwakening-1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/4200d058b012089e09e0254a1139856aeaa67f33/files/RPGStudioPack-Latest.zip",
+    "sha256": "617c77916e4dba027cfc9cca9dba542c11a9403376cf04a7fd7e859d000cfbd7",
+    "size": 37097734,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.12",
+      "title": "붉은 기사왕 스킬 아이콘·각성 개선",
+      "body": "스킬 아이콘 4종 교체 / 각성 중 일섬 가속·스킬 재사용 감소·공격력 증가"
+    },
     {
       "date": "2026.10.11",
       "title": "붉은 기사왕의 대검 스킬 리워크",
