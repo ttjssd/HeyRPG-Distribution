@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.8.0",
+      "version": "1.9.0",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -76,11 +76,11 @@
     }
   ],
   "resourcePack": {
-    "version": "IntegratedMenuInventoryPolish-1",
-    "sha256": "d34dd437aa2a3e98e6e1db04672cecebf38299904b5f1d45ad26212b08a470fb",
+    "version": "InventoryRarityAnimation-1",
+    "sha256": "409038c0f01f20fffa53835f043e59a3fbfb9457a75d060caeac46b53bb003aa",
     "metadata": {
       "pack": {
-        "description": "RPGStudioPack Latest | IntegratedMenuInventory-1 | 통합 메뉴·RPG 인벤토리·기존 HUD/스킬/던전 유지",
+        "description": "HeyRPG / InventoryRarityAnimation-1",
         "min_format": [
           88,
           0
@@ -94,5 +94,5 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.1.0",
-  "buildId": "IntegratedMenuInventoryPolish-1"
+  "buildId": "InventoryRarityAnimation-1"
 }

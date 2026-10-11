@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.8.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/201770fedf13cc248aadb2816fcc41a2d1bbb9c3/files/RPGCore-ClientUI.jar",
-      "sha256": "1778655fe3cdd8968039d95ee06f255275e69e787ed074232049d71990151600",
-      "size": 20023001,
+      "version": "1.9.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/bd4070827d283fda0779ec05e341f3159718f197/files/RPGCore-ClientUI.jar",
+      "sha256": "afcb6a6f2d3b022f47465cb2356510bbaa38ff07b877b48125e739165c166a9e",
+      "size": 20028814,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "IntegratedMenuInventoryPolish-1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/201770fedf13cc248aadb2816fcc41a2d1bbb9c3/files/RPGStudioPack-Latest.zip",
-    "sha256": "d34dd437aa2a3e98e6e1db04672cecebf38299904b5f1d45ad26212b08a470fb",
-    "size": 17266017,
+    "version": "InventoryRarityAnimation-1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/bd4070827d283fda0779ec05e341f3159718f197/files/RPGStudioPack-Latest.zip",
+    "sha256": "409038c0f01f20fffa53835f043e59a3fbfb9457a75d060caeac46b53bb003aa",
+    "size": 17265932,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.11",
+      "title": "아이템 등급 발광 애니메이션",
+      "body": "등급별 펄스 / 에너지 흐름 / 모서리 불꽃 / 부드러운 잔광"
+    },
     {
       "date": "2026.10.11",
       "title": "통합 메뉴 / RPG 인벤토리 폴리시",
