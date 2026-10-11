@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.7.1",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/0bfc8551db175299e57de9c24b9d517524a71c06/files/RPGCore-ClientUI.jar",
-      "sha256": "4658473f3c32dd464042885d6581b5f9962d7ccee79c6bc6521c2071e9156c12",
-      "size": 17448333,
+      "version": "1.8.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/201770fedf13cc248aadb2816fcc41a2d1bbb9c3/files/RPGCore-ClientUI.jar",
+      "sha256": "1778655fe3cdd8968039d95ee06f255275e69e787ed074232049d71990151600",
+      "size": 20023001,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "IntegratedMenuNoClose-1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/0bfc8551db175299e57de9c24b9d517524a71c06/files/RPGStudioPack-Latest.zip",
-    "sha256": "a3a465bc2aadafb8c02988f3fb527d8eef961322053608ac96c13b0194ad9d4a",
-    "size": 14692272,
+    "version": "IntegratedMenuInventoryPolish-1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/201770fedf13cc248aadb2816fcc41a2d1bbb9c3/files/RPGStudioPack-Latest.zip",
+    "sha256": "d34dd437aa2a3e98e6e1db04672cecebf38299904b5f1d45ad26212b08a470fb",
+    "size": 17266017,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.11",
+      "title": "통합 메뉴 / RPG 인벤토리 폴리시",
+      "body": "던전 원격 접근 / 폰트 수정 / 능력치 아이콘 / 등급 테두리 개선"
+    },
     {
       "date": "2026.10.11",
       "title": "통합 메뉴 닫기 버튼 정리",

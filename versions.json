@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.7.1",
+      "version": "1.8.0",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -76,8 +76,8 @@
     }
   ],
   "resourcePack": {
-    "version": "IntegratedMenuNoClose-1",
-    "sha256": "a3a465bc2aadafb8c02988f3fb527d8eef961322053608ac96c13b0194ad9d4a",
+    "version": "IntegratedMenuInventoryPolish-1",
+    "sha256": "d34dd437aa2a3e98e6e1db04672cecebf38299904b5f1d45ad26212b08a470fb",
     "metadata": {
       "pack": {
         "description": "RPGStudioPack Latest | IntegratedMenuInventory-1 | 통합 메뉴·RPG 인벤토리·기존 HUD/스킬/던전 유지",
@@ -94,5 +94,5 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.1.0",
-  "buildId": "IntegratedMenuNoClose-1"
+  "buildId": "IntegratedMenuInventoryPolish-1"
 }
