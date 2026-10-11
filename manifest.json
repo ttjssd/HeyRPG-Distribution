@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "InventoryRarityAnimation-1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/bd4070827d283fda0779ec05e341f3159718f197/files/RPGStudioPack-Latest.zip",
-    "sha256": "409038c0f01f20fffa53835f043e59a3fbfb9457a75d060caeac46b53bb003aa",
-    "size": 17265932,
+    "version": "RedKingFullSkillVfx-1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/5b3c81d8b5328c2217d2e0a86cf3c6fb85614819/files/RPGStudioPack-Latest.zip",
+    "sha256": "908ed56b4c7bcce5b8cb311f900e210323cf8275c41440e98be162cf49ea74d3",
+    "size": 19531442,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.11",
+      "title": "붉은 기사왕의 대검 스킬 리워크",
+      "body": "붉은 일섬 / 왕의 처형 / 붉은 검무 / 기사왕의 각성 전용 VFX"
+    },
     {
       "date": "2026.10.11",
       "title": "아이템 등급 발광 애니메이션",

@@ -76,11 +76,11 @@
     }
   ],
   "resourcePack": {
-    "version": "InventoryRarityAnimation-1",
-    "sha256": "409038c0f01f20fffa53835f043e59a3fbfb9457a75d060caeac46b53bb003aa",
+    "version": "RedKingFullSkillVfx-1",
+    "sha256": "908ed56b4c7bcce5b8cb311f900e210323cf8275c41440e98be162cf49ea74d3",
     "metadata": {
       "pack": {
-        "description": "HeyRPG / InventoryRarityAnimation-1",
+        "description": "HeyRPG / RedKingFullSkillVfx-1",
         "min_format": [
           88,
           0
@@ -94,5 +94,5 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.1.0",
-  "buildId": "InventoryRarityAnimation-1"
+  "buildId": "RedKingFullSkillVfx-1"
 }
