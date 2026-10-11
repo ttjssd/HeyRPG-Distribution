@@ -35,12 +35,12 @@
       "required": true
     },
     {
-      "name": "RPGCore ClientUI",
+      "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.6.1",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/93ac75d87a5fed3c02fb8a47becacb6ef55650ed/files/RPGCore-ClientUI.jar",
-      "sha256": "10959aaa9feab99f075ed05af4f2b8f2f98887dfec883a5f83b6069e69477a55",
-      "size": 9996598,
+      "version": "1.7.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/6bbc21ada54b5c12d250d66fef3f65eb620f1951/files/RPGCore-ClientUI.jar",
+      "sha256": "a669dac147c82fa0679aceef14c039040ca7c5957bbb2b81595e78e4f4bcc286",
+      "size": 17508850,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "RedKingGatePolish-1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/93ac75d87a5fed3c02fb8a47becacb6ef55650ed/files/RPGStudioPack-Latest.zip",
-    "sha256": "170bcf501e76466950bbd6bbb84235201b7b4d723c38ad29169985db0738901a",
-    "size": 7235986,
+    "version": "IntegratedMenuInventory-1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/6bbc21ada54b5c12d250d66fef3f65eb620f1951/files/RPGStudioPack-Latest.zip",
+    "sha256": "1c8b55515fcd7d58d45f0bb94b970cfef80b4db6cd7e411728e8fff02b235ded",
+    "size": 14752793,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.11",
+      "title": "통합 메뉴 · RPG 인벤토리",
+      "body": "Shift+F 통합 메뉴 · 마을/던전 이동 · 장비/부적 3슬롯 · 실제 소지품 검색"
+    },
     {
       "date": "2026.10.08",
       "title": "장비 강화 UI 리워크",

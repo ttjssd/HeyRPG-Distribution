@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.6.1",
+      "version": "1.7.0",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -76,11 +76,11 @@
     }
   ],
   "resourcePack": {
-    "version": "RedKingGatePolish-1",
-    "sha256": "170bcf501e76466950bbd6bbb84235201b7b4d723c38ad29169985db0738901a",
+    "version": "IntegratedMenuInventory-1",
+    "sha256": "1c8b55515fcd7d58d45f0bb94b970cfef80b4db6cd7e411728e8fff02b235ded",
     "metadata": {
       "pack": {
-        "description": "RPGStudioPack Latest | RedKingGatePolish-1 | 기존 HUD/아이템/스킬/보스 자산 유지",
+        "description": "RPGStudioPack Latest | IntegratedMenuInventory-1 | 통합 메뉴·RPG 인벤토리·기존 HUD/스킬/던전 유지",
         "min_format": [
           88,
           0
@@ -94,5 +94,5 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.1.0",
-  "buildId": "EnhancementAutoUpdate-1"
+  "buildId": "IntegratedMenuInventory-1"
 }
