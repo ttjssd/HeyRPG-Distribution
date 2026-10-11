@@ -76,11 +76,11 @@
     }
   ],
   "resourcePack": {
-    "version": "T1StarterSwordSkills-1",
-    "sha256": "9cfddf762573dadeed3e0b641a6da8188599e635646c386f1c2fe5059bc9a0b5",
+    "version": "GlobalSkillIconRecovery-1",
+    "sha256": "1cd6e5ed01c5227545d8fe8aa3684e15bbca5fa010c1fb7f668dab6c601b0380",
     "metadata": {
       "pack": {
-        "description": "HeyRPG / T1StarterSwordSkills-1",
+        "description": "HeyRPG GlobalSkillIconRecovery-1",
         "min_format": [
           88,
           0
@@ -94,5 +94,5 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.1.0",
-  "buildId": "T1StarterSwordSkills-1"
+  "buildId": "GlobalSkillIconRecovery-1"
 }

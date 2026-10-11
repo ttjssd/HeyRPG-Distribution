@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "T1StarterSwordSkills-1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/5320b7c341a457eff4caff0d08b6b5c02066bb73/files/RPGStudioPack-Latest.zip",
-    "sha256": "9cfddf762573dadeed3e0b641a6da8188599e635646c386f1c2fe5059bc9a0b5",
-    "size": 47194800,
+    "version": "GlobalSkillIconRecovery-1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/6b8b20ed9e0cbec4b255d93d6132df95ff3dd3be/files/RPGStudioPack-Latest.zip",
+    "sha256": "1cd6e5ed01c5227545d8fe8aa3684e15bbca5fa010c1fb7f668dab6c601b0380",
+    "size": 25171451,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.12",
+      "title": "전체 스킬 아이콘 호환성 복구",
+      "body": "스킬 폰트 atlas 크기 호환성 복구 · T1 검 3/5번 VFX 크기 확대"
+    },
     {
       "date": "2026.10.12",
       "title": "T1 기본 검 검술·VFX 리워크",
