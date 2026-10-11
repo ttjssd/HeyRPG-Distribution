@@ -38,9 +38,9 @@
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
       "version": "1.7.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/6bbc21ada54b5c12d250d66fef3f65eb620f1951/files/RPGCore-ClientUI.jar",
-      "sha256": "a669dac147c82fa0679aceef14c039040ca7c5957bbb2b81595e78e4f4bcc286",
-      "size": 17508850,
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/90e69e3e1cbd6be682abaeab846f9fe1a99e220f/files/RPGCore-ClientUI.jar",
+      "sha256": "58bfdf6d1f76a8055ee12982ff9d0eb9b73fa4444b118573f305b0fcef1b4663",
+      "size": 17508856,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -68,7 +68,7 @@
   "resourcePack": {
     "name": "RPGStudioPack",
     "version": "IntegratedMenuInventory-1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/6bbc21ada54b5c12d250d66fef3f65eb620f1951/files/RPGStudioPack-Latest.zip",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/90e69e3e1cbd6be682abaeab846f9fe1a99e220f/files/RPGStudioPack-Latest.zip",
     "sha256": "1c8b55515fcd7d58d45f0bb94b970cfef80b4db6cd7e411728e8fff02b235ded",
     "size": 14752793,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
