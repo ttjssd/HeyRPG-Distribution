@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.7.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/90e69e3e1cbd6be682abaeab846f9fe1a99e220f/files/RPGCore-ClientUI.jar",
-      "sha256": "58bfdf6d1f76a8055ee12982ff9d0eb9b73fa4444b118573f305b0fcef1b4663",
-      "size": 17508856,
+      "version": "1.7.1",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/0bfc8551db175299e57de9c24b9d517524a71c06/files/RPGCore-ClientUI.jar",
+      "sha256": "4658473f3c32dd464042885d6581b5f9962d7ccee79c6bc6521c2071e9156c12",
+      "size": 17448333,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "IntegratedMenuInventory-1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/90e69e3e1cbd6be682abaeab846f9fe1a99e220f/files/RPGStudioPack-Latest.zip",
-    "sha256": "1c8b55515fcd7d58d45f0bb94b970cfef80b4db6cd7e411728e8fff02b235ded",
-    "size": 14752793,
+    "version": "IntegratedMenuNoClose-1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/0bfc8551db175299e57de9c24b9d517524a71c06/files/RPGStudioPack-Latest.zip",
+    "sha256": "a3a465bc2aadafb8c02988f3fb527d8eef961322053608ac96c13b0194ad9d4a",
+    "size": 14692272,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.11",
+      "title": "통합 메뉴 닫기 버튼 정리",
+      "body": "메인 메뉴 오른쪽 위 닫기 버튼 제거 · ESC/Shift+F 닫기 유지"
+    },
     {
       "date": "2026.10.11",
       "title": "통합 메뉴 · RPG 인벤토리",
