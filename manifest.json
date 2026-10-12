@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "GlobalSkillIconRecovery-1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/6b8b20ed9e0cbec4b255d93d6132df95ff3dd3be/files/RPGStudioPack-Latest.zip",
-    "sha256": "1cd6e5ed01c5227545d8fe8aa3684e15bbca5fa010c1fb7f668dab6c601b0380",
-    "size": 25171451,
+    "version": "T1ShadowDagger-1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/e4582e5a8385179f35f048806d95e764173b1405/files/RPGStudioPack-Latest.zip",
+    "sha256": "b2a5e93136a67193bf8960335e415d25045f4c0360f379017c9962ac4c7beb7a",
+    "size": 26543770,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.12",
+      "title": "T1 그림자 단검 리뉴얼",
+      "body": "3연타 · 5초 은신 · 후방 기습 · 확정 치명타 / 전체 스킬 아이콘 검증"
+    },
     {
       "date": "2026.10.12",
       "title": "전체 스킬 아이콘 호환성 복구",

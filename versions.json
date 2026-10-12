@@ -76,11 +76,11 @@
     }
   ],
   "resourcePack": {
-    "version": "GlobalSkillIconRecovery-1",
-    "sha256": "1cd6e5ed01c5227545d8fe8aa3684e15bbca5fa010c1fb7f668dab6c601b0380",
+    "version": "T1ShadowDagger-1",
+    "sha256": "b2a5e93136a67193bf8960335e415d25045f4c0360f379017c9962ac4c7beb7a",
     "metadata": {
       "pack": {
-        "description": "HeyRPG GlobalSkillIconRecovery-1",
+        "description": "HeyRPG T1 Shadow Dagger Rework",
         "min_format": [
           88,
           0
@@ -94,5 +94,5 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.1.0",
-  "buildId": "GlobalSkillIconRecovery-1"
+  "buildId": "T1ShadowDagger-1"
 }
