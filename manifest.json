@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.9.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/bd4070827d283fda0779ec05e341f3159718f197/files/RPGCore-ClientUI.jar",
-      "sha256": "afcb6a6f2d3b022f47465cb2356510bbaa38ff07b877b48125e739165c166a9e",
-      "size": 20028814,
+      "version": "1.10.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/8629e637b8b97ed08f1ea5cbe1a452f3299a80a4/files/RPGCore-ClientUI.jar",
+      "sha256": "9f67eb91ab494628230720c205b09585267af5f652c931555d6af1f2c82f3566",
+      "size": 21465267,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.13",
+      "title": "작물 상점 리뉴얼",
+      "body": "씨앗 구매 · 작물 판매 통합 / 수량 선택 · 최대 구매 · 거래 확인"
+    },
     {
       "date": "2026.10.12",
       "title": "T1 그림자 단검 리뉴얼",
@@ -134,11 +139,6 @@
       "date": "2026.10.07",
       "title": "붉은 기사단 폐허",
       "body": "붉은 기사왕과 전용 던전 UI를 만나보세요."
-    },
-    {
-      "date": "2026.10.07",
-      "title": "HeyRPG 전용 런처",
-      "body": "공식 로그인과 파일 자동 검사를 지원합니다."
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
