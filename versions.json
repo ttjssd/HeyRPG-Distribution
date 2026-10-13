@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.11.1",
+      "version": "1.11.2",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -94,5 +94,5 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.1.0",
-  "buildId": "DungeonRewardChestVFX-1"
+  "buildId": "TalismanShopPolish-1"
 }

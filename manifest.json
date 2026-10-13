@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.11.1",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/8466b3782de647765ea4656c95bcbff1870e9efb/files/RPGCore-ClientUI.jar",
-      "sha256": "29f4c1514b2faa1af69a6994c247b778d891b3ee8a1d69cf1449c0a2e673fb8c",
-      "size": 25319581,
+      "version": "1.11.2",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/7aeae7d2514af2ff80643e54bc92a553491482a5/files/RPGCore-ClientUI.jar",
+      "sha256": "7e2a5c8179565f463084ac75a2a4381e4f64541ea9f77f0493e54d52eb112bfd",
+      "size": 25320482,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.14",
+      "title": "부적 상점 화면 정리",
+      "body": "글자·확률·미리보기 정렬 및 기존 장착 부적 아이콘 호환성 개선"
+    },
     {
       "date": "2026.10.13",
       "title": "던전 보상 상자 연출",
@@ -134,11 +139,6 @@
       "date": "2026.10.11",
       "title": "통합 메뉴 / RPG 인벤토리 폴리시",
       "body": "던전 원격 접근 / 폰트 수정 / 능력치 아이콘 / 등급 테두리 개선"
-    },
-    {
-      "date": "2026.10.11",
-      "title": "통합 메뉴 닫기 버튼 정리",
-      "body": "메인 메뉴 오른쪽 위 닫기 버튼 제거 · ESC/Shift+F 닫기 유지"
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
