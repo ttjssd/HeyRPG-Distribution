@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.10.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/8629e637b8b97ed08f1ea5cbe1a452f3299a80a4/files/RPGCore-ClientUI.jar",
-      "sha256": "9f67eb91ab494628230720c205b09585267af5f652c931555d6af1f2c82f3566",
-      "size": 21465267,
+      "version": "1.11.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/cbb68a4fa13328992ed6bee6e588cfe8a97a01aa/files/RPGCore-ClientUI.jar",
+      "sha256": "0f4b5662cfa1458560c9948e0f8f9ec5729a6a23eed6fc02abc7f27d0ec1c48c",
+      "size": 25313913,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "T1ShadowDagger-1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/e4582e5a8385179f35f048806d95e764173b1405/files/RPGStudioPack-Latest.zip",
-    "sha256": "b2a5e93136a67193bf8960335e415d25045f4c0360f379017c9962ac4c7beb7a",
-    "size": 26543770,
+    "version": "CelestialTalisman-1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/cbb68a4fa13328992ed6bee6e588cfe8a97a01aa/files/RPGStudioPack-Latest.zip",
+    "sha256": "7c17044b47748a1f40b9c318cbb16f053b6e4cf3fec687fc40478ac6ca8a99bf",
+    "size": 26586055,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.13",
+      "title": "천공 부적 시스템",
+      "body": "별빛 파편 뽑기 / 랜덤 옵션 / 부적 강화와 분해 / 이동속도 적용"
+    },
     {
       "date": "2026.10.13",
       "title": "작물 상점 리뉴얼",
@@ -134,11 +139,6 @@
       "date": "2026.10.08",
       "title": "장비 강화 UI 리워크",
       "body": "판타지 강화 화면 · 런처 자동 업데이트 · 구버전 관리 파일 정리"
-    },
-    {
-      "date": "2026.10.07",
-      "title": "붉은 기사단 폐허",
-      "body": "붉은 기사왕과 전용 던전 UI를 만나보세요."
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",

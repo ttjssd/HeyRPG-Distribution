@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.10.0",
+      "version": "1.11.0",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -76,8 +76,8 @@
     }
   ],
   "resourcePack": {
-    "version": "T1ShadowDagger-1",
-    "sha256": "b2a5e93136a67193bf8960335e415d25045f4c0360f379017c9962ac4c7beb7a",
+    "version": "CelestialTalisman-1",
+    "sha256": "7c17044b47748a1f40b9c318cbb16f053b6e4cf3fec687fc40478ac6ca8a99bf",
     "metadata": {
       "pack": {
         "description": "HeyRPG T1 Shadow Dagger Rework",
@@ -94,5 +94,5 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.1.0",
-  "buildId": "CropShopUnified-1"
+  "buildId": "CelestialTalisman-1"
 }
