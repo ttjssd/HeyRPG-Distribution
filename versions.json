@@ -76,8 +76,8 @@
     }
   ],
   "resourcePack": {
-    "version": "StarlightDungeonRewards-1",
-    "sha256": "9435a9601130214bbe245c584e5c6d2a983b5a182c824c75ab2cb1b350bcc585",
+    "version": "DungeonRewardChestVFX-1",
+    "sha256": "170dc8250aaf5b0895d197f97cb247887d4129f294cc593bbc97aae219852eb9",
     "metadata": {
       "pack": {
         "description": "HeyRPG T1 Shadow Dagger Rework",
@@ -94,5 +94,5 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.1.0",
-  "buildId": "StarlightDungeonRewards-1"
+  "buildId": "DungeonRewardChestVFX-1"
 }

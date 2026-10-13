@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "StarlightDungeonRewards-1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/8466b3782de647765ea4656c95bcbff1870e9efb/files/RPGStudioPack-Latest.zip",
-    "sha256": "9435a9601130214bbe245c584e5c6d2a983b5a182c824c75ab2cb1b350bcc585",
-    "size": 26591292,
+    "version": "DungeonRewardChestVFX-1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/5db668830d7263f67679762e01c700c60be9207a/files/RPGStudioPack-Latest.zip",
+    "sha256": "170dc8250aaf5b0895d197f97cb247887d4129f294cc593bbc97aae219852eb9",
+    "size": 26592750,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.13",
+      "title": "던전 보상 상자 연출",
+      "body": "상자 개방 · 별빛 회전 결정 · 열쇠 봉인 해제 · 기사왕 대검 희귀 획득 연출"
+    },
     {
       "date": "2026.10.13",
       "title": "별빛 파편 던전 보상",
@@ -134,11 +139,6 @@
       "date": "2026.10.11",
       "title": "통합 메뉴 닫기 버튼 정리",
       "body": "메인 메뉴 오른쪽 위 닫기 버튼 제거 · ESC/Shift+F 닫기 유지"
-    },
-    {
-      "date": "2026.10.11",
-      "title": "통합 메뉴 · RPG 인벤토리",
-      "body": "Shift+F 통합 메뉴 · 마을/던전 이동 · 장비/부적 3슬롯 · 실제 소지품 검색"
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
