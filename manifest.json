@@ -38,8 +38,8 @@
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
       "version": "1.11.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/cbb68a4fa13328992ed6bee6e588cfe8a97a01aa/files/RPGCore-ClientUI.jar",
-      "sha256": "0f4b5662cfa1458560c9948e0f8f9ec5729a6a23eed6fc02abc7f27d0ec1c48c",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/0ef21d3cf27cad93cc5582db16ae581b562924a9/files/RPGCore-ClientUI.jar",
+      "sha256": "397cff3a6306c8f46b50513789e051811cc4aadbf4647d9e742bee650e211019",
       "size": 25313913,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
@@ -68,7 +68,7 @@
   "resourcePack": {
     "name": "RPGStudioPack",
     "version": "CelestialTalisman-1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/cbb68a4fa13328992ed6bee6e588cfe8a97a01aa/files/RPGStudioPack-Latest.zip",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/0ef21d3cf27cad93cc5582db16ae581b562924a9/files/RPGStudioPack-Latest.zip",
     "sha256": "7c17044b47748a1f40b9c318cbb16f053b6e4cf3fec687fc40478ac6ca8a99bf",
     "size": 26586055,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
