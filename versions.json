@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.11.0",
+      "version": "1.11.1",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -76,8 +76,8 @@
     }
   ],
   "resourcePack": {
-    "version": "CelestialTalisman-1",
-    "sha256": "7c17044b47748a1f40b9c318cbb16f053b6e4cf3fec687fc40478ac6ca8a99bf",
+    "version": "StarlightDungeonRewards-1",
+    "sha256": "9435a9601130214bbe245c584e5c6d2a983b5a182c824c75ab2cb1b350bcc585",
     "metadata": {
       "pack": {
         "description": "HeyRPG T1 Shadow Dagger Rework",
@@ -94,5 +94,5 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.1.0",
-  "buildId": "CelestialTalisman-1"
+  "buildId": "StarlightDungeonRewards-1"
 }
