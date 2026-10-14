@@ -9,3 +9,11 @@ sodium 0.9.2+mc26.2 — Polyform-Shield-1.0.0
 
 Third-party mods download from their official Modrinth release assets; they are not mirrored here.
 Launcher libraries: CmlLib.Core MIT, .NET runtime MIT, SharpZipLib MIT.
+
+
+Solas Shader 3.7b — Septonious
+Official source: https://modrinth.com/shader/solas-shader/version/3.7b
+Policy: https://github.com/Septonious/Solas-Shader/blob/main/LICENSE
+The launcher downloads the unmodified archive from the official Modrinth CDN.
+The shader archive is not hosted in this repository or bundled in the launcher ZIP.
+Independent hosting and public modified versions require the author’s permission.

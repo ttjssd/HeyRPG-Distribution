@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "launcherVersion": "1.1.4",
+  "launcherVersion": "1.1.5",
   "minecraftVersion": "26.2",
   "fabricLoader": "0.19.5",
   "mods": [
@@ -142,7 +142,30 @@
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
-  "launcherUpdateUrl": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c64f03f0b32f357f508ecca262434c6de74b5470/HeyRPGLauncher.exe",
-  "launcherSha256": "64be12830599a1dd33fa88b88cebc8461643d51c0305b768c11a1accb2afa437",
-  "launcherSize": 74313024
+  "launcherUpdateUrl": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/391ed0ed53967e610a6a32127bfb810d34326d29/HeyRPGLauncher.exe",
+  "launcherSha256": "2d522ea2801302f23acc5cd4016017b9992c66e6faaedcc588dba1e853a01036",
+  "launcherSize": 74342720,
+  "shader": {
+    "id": "heyrpg-default-shader",
+    "file": {
+      "name": "Solas Shader by Septonious",
+      "version": "3.7b",
+      "url": "https://cdn.modrinth.com/data/EpQFjzrQ/versions/KcfQaN5J/Solas%20Shader%20V3.7b.zip",
+      "sha256": "b7dfe4c7353d677a92cc4c86b87bc0633f1014305d927ca6a482c303427bf825",
+      "size": 1252311,
+      "targetPath": "shaderpacks/Solas Shader V3.7b.zip",
+      "required": false,
+      "managed": true
+    },
+    "source": "https://modrinth.com/shader/solas-shader/version/3.7b",
+    "license": "https://github.com/Septonious/Solas-Shader/blob/main/LICENSE",
+    "attribution": "Solas Shader © Septonious — downloaded directly from official Modrinth CDN; no rehosting or modifications.",
+    "managed": true,
+    "optional": true,
+    "recommendedIrisOptions": {
+      "colorSpace": "SRGB",
+      "maxShadowRenderDistance": "32"
+    },
+    "recommendedPackOptions": {}
+  }
 }
