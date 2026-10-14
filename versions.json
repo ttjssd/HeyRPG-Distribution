@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.11.2",
+      "version": "1.12.0",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -94,6 +94,6 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.1.4",
-  "buildId": "OfficialLauncherFallback-1",
+  "buildId": "WeaponLoadout-2.0",
   "authMode": "OFFICIAL_LAUNCHER"
 }
