@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "DungeonRewardChestVFX-1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/5db668830d7263f67679762e01c700c60be9207a/files/RPGStudioPack-Latest.zip",
-    "sha256": "170dc8250aaf5b0895d197f97cb247887d4129f294cc593bbc97aae219852eb9",
-    "size": 26592750,
+    "version": "InventorySaveTicketReward-1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/570349acd7c75f091c1e4c4b69e8c4e68f7dc71d/files/RPGStudioPack-Latest.zip",
+    "sha256": "64188c03481f133bae7a98c38f2fcdc34166e5061a10847d8458400aab63bfdb",
+    "size": 26598500,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
