@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "launcherVersion": "1.1.2",
+  "launcherVersion": "1.1.3",
   "minecraftVersion": "26.2",
   "fabricLoader": "0.19.5",
   "mods": [
@@ -142,7 +142,7 @@
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
-  "launcherUpdateUrl": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c4f9a20574698499fed918f7d1733f24e4d626b4/HeyRPGLauncher.exe",
-  "launcherSha256": "ac12332d934833ae7e4b363c82bc66ddd4c39e5323f9611a24699bd8510fe96c",
-  "launcherSize": 74260288
+  "launcherUpdateUrl": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/23cb667635e7e7307966cada64fd0bf031912c02/HeyRPGLauncher.exe",
+  "launcherSha256": "b0514820f5b12dbbe2467e93efc73aa7592a55350efcf7647bc6c393d8ed9f45",
+  "launcherSize": 74260800
 }
