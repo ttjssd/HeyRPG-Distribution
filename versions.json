@@ -76,8 +76,8 @@
     }
   ],
   "resourcePack": {
-    "version": "DungeonRewardChestVFX-1",
-    "sha256": "170dc8250aaf5b0895d197f97cb247887d4129f294cc593bbc97aae219852eb9",
+    "version": "CombatFoundation2-1",
+    "sha256": "9a191279716efe2ac66668b8e1fc7f51b511864009750b2ff9559e598042b47e",
     "metadata": {
       "pack": {
         "description": "HeyRPG T1 Shadow Dagger Rework",
