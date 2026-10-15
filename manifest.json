@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.13.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/2a9802d5e5cf77e0e448f4cf78f2e9c44ecba3ce/files/RPGCore-ClientUI.jar",
-      "sha256": "a5666686c0a9ed284f8a2a03bace81ae72c089ac0679e3820e7b13564ede4ebe",
-      "size": 25347284,
+      "version": "1.14.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/ba1bf754f502b8e30e1a933bee7d85d86af8ee25/files/RPGCore-ClientUI.jar",
+      "sha256": "f0835ce5488f279c4780a659f9000c7d10485fc336088eba7d6f4ad977e8db01",
+      "size": 25347304,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "CombatFoundation2-1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/18205bc14a434597289e15a460dc6836cc19e03b/files/RPGStudioPack-Latest.zip",
-    "sha256": "9a191279716efe2ac66668b8e1fc7f51b511864009750b2ff9559e598042b47e",
-    "size": 26578136,
+    "version": "ShieldArchetype1-1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/ba1bf754f502b8e30e1a933bee7d85d86af8ee25/files/RPGStudioPack-Latest.zip",
+    "sha256": "6740344c3ff16bed081049a36e299f1432f14f08c6d709597f4eb76a38866eba",
+    "size": 27133715,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
