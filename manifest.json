@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.14.1",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/0467f22b777e3eb7fadc9c2c53a9f8a1620344ee/files/RPGCore-ClientUI.jar",
-      "sha256": "18e4342645d0f697f45eaf6c447a666c326f8a1bd0edec01f9ee9d2d2286e378",
-      "size": 25352193,
+      "version": "1.15.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/57624bca9583adeebd56414fbc74f2a8f9d6d0a4/files/RPGCore-ClientUI.jar",
+      "sha256": "00be1fbc2f52d7dcb213756fabaf5c2c49ee15fed937976de61e6efc23e7dcb5",
+      "size": 25352671,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "TankPresentation-1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/0467f22b777e3eb7fadc9c2c53a9f8a1620344ee/files/RPGStudioPack-Latest.zip",
-    "sha256": "56ece9cbf001d7df95b2d5de577c18a7bf8157c9cae86b58e89aed51c8ecaa91",
-    "size": 27333726,
+    "version": "BossCombat2-Attendance1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/57624bca9583adeebd56414fbc74f2a8f9d6d0a4/files/RPGStudioPack-Latest.zip",
+    "sha256": "2a62c0807e23a916ddeae0f6f8dcf338196c734159fdc449ee1ff3ffffd28c21",
+    "size": 27366284,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
