@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "InventorySaveTicketReward-1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/570349acd7c75f091c1e4c4b69e8c4e68f7dc71d/files/RPGStudioPack-Latest.zip",
-    "sha256": "64188c03481f133bae7a98c38f2fcdc34166e5061a10847d8458400aab63bfdb",
-    "size": 26598500,
+    "version": "CombatFoundation2-1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/18205bc14a434597289e15a460dc6836cc19e03b/files/RPGStudioPack-Latest.zip",
+    "sha256": "9a191279716efe2ac66668b8e1fc7f51b511864009750b2ff9559e598042b47e",
+    "size": 26578136,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
