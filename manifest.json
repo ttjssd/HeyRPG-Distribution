@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.16.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/704ec9f6dc21948791349d597cf6f7d072bc019a/files/RPGCore-ClientUI.jar",
-      "sha256": "ab0fb4497e21d6f606b3d77abac73a1e66adacf7f9a8c7e1e155cadddb54cd69",
-      "size": 30410513,
+      "version": "1.17.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c44b3f6d0ec9f7bac97b3d1b3915c2c7908c54c6/files/RPGCore-ClientUI.jar",
+      "sha256": "60a1a01e59cb1b8201d323ae16f4111659388a353d6af206bd060422092e488f",
+      "size": 33002503,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "BossCombat2-Attendance1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/57624bca9583adeebd56414fbc74f2a8f9d6d0a4/files/RPGStudioPack-Latest.zip",
-    "sha256": "2a62c0807e23a916ddeae0f6f8dcf338196c734159fdc449ee1ff3ffffd28c21",
-    "size": 27366284,
+    "version": "CosmeticAura1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c44b3f6d0ec9f7bac97b3d1b3915c2c7908c54c6/files/RPGStudioPack-Latest.zip",
+    "sha256": "7ac4695193915a91c2a25ed509068e45060fcfcfbba5d42ca6d3b65bc246cbec",
+    "size": 27488279,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
