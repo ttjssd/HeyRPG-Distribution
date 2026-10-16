@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.18.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/741a17197c31004f2c75dd79456677e84150aa44/files/RPGCore-ClientUI.jar",
-      "sha256": "c33e77a31449af346ba2db4cb700fe782c5bcb377fcbb389df6b33459ffa3b4c",
-      "size": 38591801,
+      "version": "1.18.1",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/bf3a9834dc0ba6c9203b796b60c85651f505d0e9/files/RPGCore-ClientUI.jar",
+      "sha256": "30f34e08699be9758c02861fd98dec463731846460d3edde12cbb5730930cd46",
+      "size": 38593878,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "CosmeticAura1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c44b3f6d0ec9f7bac97b3d1b3915c2c7908c54c6/files/RPGStudioPack-Latest.zip",
-    "sha256": "7ac4695193915a91c2a25ed509068e45060fcfcfbba5d42ca6d3b65bc246cbec",
-    "size": 27488279,
+    "version": "CosmeticTicket1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/bf3a9834dc0ba6c9203b796b60c85651f505d0e9/files/RPGStudioPack-Latest.zip",
+    "sha256": "e3350ef04a99fde9b8bc68db027fa49267d67cd68e5c22053e56a8f7fffecaae",
+    "size": 27490357,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
