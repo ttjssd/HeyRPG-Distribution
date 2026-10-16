@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.22.2",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/8a587cbc9b91be49054c37a984960d14aa81c13c/files/RPGCore-ClientUI.jar",
-      "sha256": "b750bc6e409ab74093fd49b52a01069780b9c69b061613c7d7c797b367dcb936",
-      "size": 38918078,
+      "version": "1.23.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/006bad6f667c6a396f077621f76eb3a0c29d37c8/files/RPGCore-ClientUI.jar",
+      "sha256": "6317f70e203ed9a13231e748f941e5ae372b231fa9503c9b8fc036ef7ae887ba",
+      "size": 38918513,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "Fortress1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/35e5d18edcb60afc68978c869712d13226b32ec7/files/RPGStudioPack-Latest.zip",
-    "sha256": "803c31fc508f9cfccbb3f5baa081b6c8ed9ebb52d64a55fdb4d2b723649d0266",
-    "size": 27876490,
+    "version": "T2Weapon1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/006bad6f667c6a396f077621f76eb3a0c29d37c8/files/RPGStudioPack-Latest.zip",
+    "sha256": "5413916f7f8d07c9c6ff6833a66ebe8fa0452c8fea481c1d6bbf859891e98ce1",
+    "size": 28940998,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
