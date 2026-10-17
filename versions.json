@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.23.1",
+      "version": "1.24.0",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -76,8 +76,8 @@
     }
   ],
   "resourcePack": {
-    "version": "AuraPresentation2",
-    "sha256": "75dc74c689331f7dc6834591fa134e531d5aae6232c4d4672a62b4b4210b93e8",
+    "version": "BackAura1",
+    "sha256": "7d61408b0684c24767bd6eae7d64d032229b3ac141928797b39b3906f3785b2a",
     "metadata": {
       "pack": {
         "description": "HeyRPG T1 Shadow Dagger Rework",
