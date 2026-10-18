@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.24.4",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/3032b4b11d1cfbfd503b632e6ce3e3c3d901af49/files/RPGCore-ClientUI.jar",
-      "sha256": "ed996eabed152a5f68b2f88775460fa0003caaaec8aab40ae53f10743fd63726",
-      "size": 41921122,
+      "version": "1.24.5",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/afebba2e6437b7e1389d78a046f4a0cc71e65b09/files/RPGCore-ClientUI.jar",
+      "sha256": "ecb011602c8da27f013297c1a5ebe7c4283f1dc8e2b75ed53841dbc2fb39ada0",
+      "size": 41921205,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
