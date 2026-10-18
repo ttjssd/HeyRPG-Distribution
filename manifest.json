@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.24.1",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c6ad905a047c22d03521cfebb9fca45374a9d60e/files/RPGCore-ClientUI.jar",
-      "sha256": "7824b0f96c0d6360a1c841de163af8b025740eb1bf4e30c6f85e062684c0cd19",
-      "size": 41361673,
+      "version": "1.24.2",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/30a1f724b5bb264ab389f7c5a0066b99fba83666/files/RPGCore-ClientUI.jar",
+      "sha256": "37b2e3a8892295a53d8e6745b606e93538ab6807bb3de2cb9ce85193a3434cee",
+      "size": 41362264,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "BackAuraRoots1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c6ad905a047c22d03521cfebb9fca45374a9d60e/files/RPGStudioPack-Latest.zip",
-    "sha256": "c7917c2246186e7d5450b9a566b5a6174dff8c56f628e7ad66f2b5ff73944249",
-    "size": 34007738,
+    "version": "BackAuraClean1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/30a1f724b5bb264ab389f7c5a0066b99fba83666/files/RPGStudioPack-Latest.zip",
+    "sha256": "da19c88a1045c33562b9b954d1ffa466d6e5b060d9ee9023ac7c31ebf9c84a2b",
+    "size": 35080945,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
