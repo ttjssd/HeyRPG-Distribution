@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "launcherVersion": "1.1.7",
+  "launcherVersion": "1.2.0",
   "minecraftVersion": "26.2",
   "fabricLoader": "0.19.5",
   "mods": [
@@ -82,6 +82,11 @@
   "news": [
     {
       "date": "2026.10.19",
+      "title": "런처 UI 2.0 · 왕국으로 향하는 새로운 화면",
+      "body": "왕성 배경과 금장 테마, 새 가이드 카드와 파일 상태 화면을 적용했습니다. 공지는 30초마다 갱신됩니다. 게임 종료 후 런처를 다시 열어 업데이트해주세요."
+    },
+    {
+      "date": "2026.10.19",
       "title": "런처 1.1.7 · 업데이트 공지 자동 갱신",
       "body": "런처를 열어둔 동안 새 공지를 30초마다 확인합니다. 게임을 종료한 뒤 런처를 다시 열면 1.1.7로 자동 업데이트됩니다."
     },
@@ -157,9 +162,9 @@
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
-  "launcherUpdateUrl": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/431fe6b5b74711db2907ab32b64c1a926bcd44e3/HeyRPGLauncher.exe",
-  "launcherSha256": "d4686a0de52c0cf79eed694fb54772bcafcb3641b75c91aad623c09f5e31d112",
-  "launcherSize": 74352960,
+  "launcherUpdateUrl": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/769b67352ca7c0a47a003ece11b2aaefd3d90883/HeyRPGLauncher.exe",
+  "launcherSha256": "3e9b5102cf2d6726a29e3bb47e4da8f0647e46bc753879312e4ed532b501e55f",
+  "launcherSize": 76474688,
   "shader": {
     "id": "heyrpg-default-shader",
     "file": {

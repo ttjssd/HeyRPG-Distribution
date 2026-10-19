@@ -93,7 +93,7 @@
     }
   },
   "authenticationConfigured": true,
-  "launcherVersion": "1.1.7",
+  "launcherVersion": "1.2.0",
   "buildId": "WeaponLoadout-2.0",
   "authMode": "OFFICIAL_LAUNCHER"
 }
