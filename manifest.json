@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.28.2",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/aa37a2dc864b54553627036978a25eb37afc0f3c/files/RPGCore-ClientUI.jar",
-      "sha256": "ef09679fc2e54b9c4e6f3e0f25ae91fbcc4e8943b0e41ffd5b7e526fbcdbec1d",
-      "size": 48516999,
+      "version": "1.28.3",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/4589cacb84a731d84ea06994197a342b2cc40cad/files/RPGCore-ClientUI.jar",
+      "sha256": "f09d5d14c3e425a6a730b419fe9e12962fb3035b431191fca57edcaed1677e28",
+      "size": 48521445,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "ProtectionRecovery1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/0f379f7430156814232e4ffb4e1d37231097a65c/files/RPGStudioPack-Latest.zip",
-    "sha256": "88b509ed1cab3dff47175e214ad071a9237828033f5eaa41a35955754d8a26f9",
-    "size": 36160726,
+    "version": "CoreUIRewardPolish1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/4589cacb84a731d84ea06994197a342b2cc40cad/files/RPGStudioPack-Latest.zip",
+    "sha256": "3dee5c1f7216654571b5e75c84d342194008b1fb27ade232a034a50b7ac7b9c9",
+    "size": 36161020,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.20",
+      "title": "Core UI & Reward Polish Hotfix",
+      "body": "강화 저장 오류와 보호권 아이콘을 수정했습니다. 대장장이와 도감 화면을 개선하고, 던전 입장 중 Gold 표시를 정리했습니다. 출석은 기존 랜덤 보상과 별도로 치장 뽑기권 1장을 매일 확정 지급합니다."
+    },
     {
       "date": "2026.10.19",
       "title": "런처 UI 2.0 · 왕국으로 향하는 새로운 화면",
