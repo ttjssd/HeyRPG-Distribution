@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.28.6",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/da74c18599ffcad5843d3ddb196952a86f629254/files/RPGCore-ClientUI.jar",
-      "sha256": "07edc156f2d229a42c5f1aeea165890ea58c41e1eece488753f33d2140b9ada5",
-      "size": 53668990,
+      "version": "1.29.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/b0b009e493984de8afbfbcee8d2b2291b9c50ffd/files/RPGCore-ClientUI.jar",
+      "sha256": "ad9c4f8da2ad06e06f1b9325754ecb34a9c4170d099a119e8ef745319c5a2010",
+      "size": 53684583,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.21",
+      "title": "Phase 3 · 장비 비교와 개인 보관함",
+      "body": "강화 수치를 포함한 장비 비교와 54칸 개인 보관함·종류별 정리를 추가했습니다. 세 던전의 새 정상 클리어 보상에서 회복 포션을 반드시 2~5개 획득합니다. 기존 전투·희귀 보상·제작 체계는 유지됩니다. 런처 공지 관리자 대기열과 안전한 게시 도구도 추가했습니다."
+    },
     {
       "date": "2026.10.21",
       "title": "T2 탱커 방패 · 잊혀진 왕의 수호방패",
