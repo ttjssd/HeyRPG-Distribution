@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.28.3",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/4589cacb84a731d84ea06994197a342b2cc40cad/files/RPGCore-ClientUI.jar",
-      "sha256": "f09d5d14c3e425a6a730b419fe9e12962fb3035b431191fca57edcaed1677e28",
-      "size": 48521445,
+      "version": "1.28.4",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/4c259970eb6ab0a29e31d4e66189d78a8a665d19/files/RPGCore-ClientUI.jar",
+      "sha256": "e74cfcdf3f34b602519380aa69fb2c1e0713d975bf648c9342da6bfce770bd23",
+      "size": 53661992,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.20",
+      "title": "Blacksmith Hub UI 2.0",
+      "body": "대장장이 첫 화면을 시네마틱 제작·강화·복구 일러스트와 금장 프레임으로 개편했습니다. 제목·버튼과 설명에 명조 글꼴을 구분 적용하고 기존 작업대로의 진입과 뒤로가기를 정리했습니다. 제작법·강화 확률·보호·복구 기능은 그대로 유지됩니다."
+    },
     {
       "date": "2026.10.20",
       "title": "Core UI & Reward Polish Hotfix",
