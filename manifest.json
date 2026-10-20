@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.28.4",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/4c259970eb6ab0a29e31d4e66189d78a8a665d19/files/RPGCore-ClientUI.jar",
-      "sha256": "e74cfcdf3f34b602519380aa69fb2c1e0713d975bf648c9342da6bfce770bd23",
-      "size": 53661992,
+      "version": "1.28.5",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/4c5ec549210f2999bff6e409479fd0ab551dcee7/files/RPGCore-ClientUI.jar",
+      "sha256": "96d438c209793df36b10f9193871fc2b9c041a54f11b2c913ed4c480ec66e9ad",
+      "size": 53668941,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.20",
+      "title": "전투·던전 보상·파티 HUD 개선",
+      "body": "던전 파티 체력 HUD를 추가하고, 모든 던전의 별빛 파편 지급 경로와 요새 포션 보상을 보완했습니다. 치장 뽑기권 획득률은 광산35%·붉은 기사단40%·요새50%로 조정하며 별빛 파편은 부적 재화로 유지됩니다. 클리어 Gold를 상향하고 보스 원거리 대응, 부적 체력·공격력 고정 수치, 사망 후 오라 유지도 개선했습니다."
+    },
     {
       "date": "2026.10.20",
       "title": "Blacksmith Hub UI 2.0",
