@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.28.5",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/4c5ec549210f2999bff6e409479fd0ab551dcee7/files/RPGCore-ClientUI.jar",
-      "sha256": "96d438c209793df36b10f9193871fc2b9c041a54f11b2c913ed4c480ec66e9ad",
-      "size": 53668941,
+      "version": "1.28.6",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/da74c18599ffcad5843d3ddb196952a86f629254/files/RPGCore-ClientUI.jar",
+      "sha256": "07edc156f2d229a42c5f1aeea165890ea58c41e1eece488753f33d2140b9ada5",
+      "size": 53668990,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "CoreUIRewardPolish1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/4589cacb84a731d84ea06994197a342b2cc40cad/files/RPGStudioPack-Latest.zip",
-    "sha256": "3dee5c1f7216654571b5e75c84d342194008b1fb27ade232a034a50b7ac7b9c9",
-    "size": 36161020,
+    "version": "GuardianShield1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/da74c18599ffcad5843d3ddb196952a86f629254/files/RPGStudioPack-Latest.zip",
+    "sha256": "fad007c346db8d026d73ee572f129f156b64b9983436bb2b559d41d127beca6c",
+    "size": 37509016,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.21",
+      "title": "T2 탱커 방패 · 잊혀진 왕의 수호방패",
+      "body": "잊혀진 왕의 요새 재료로 제작하는 T2 탱커 방패를 추가했습니다. 왕실 방패 강타·도발·충격파·4초 파티 보호 스킬과 전용 3D 모델, 아이콘 및 효과를 적용했습니다. 기존 던전 보상과 강화 확률은 유지됩니다."
+    },
     {
       "date": "2026.10.20",
       "title": "전투·던전 보상·파티 HUD 개선",
