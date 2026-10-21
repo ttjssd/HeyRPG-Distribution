@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.29.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/b0b009e493984de8afbfbcee8d2b2291b9c50ffd/files/RPGCore-ClientUI.jar",
-      "sha256": "ad9c4f8da2ad06e06f1b9325754ecb34a9c4170d099a119e8ef745319c5a2010",
-      "size": 53684583,
+      "version": "1.29.1",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c03b15ea947e8d17b53e808bc60b3f38586670d8/files/RPGCore-ClientUI.jar",
+      "sha256": "ab55c74361c2de47eb982c3b411bda487224b2c373a87ab47590dba80f2e6256",
+      "size": 53684748,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.21",
+      "title": "T2 요새 난이도 · 부적 밸런스 · 파티 HUD",
+      "body": "기존 부적 수치를 보존하고 신규 부적 옵션 품질을 조정했습니다. T2 요새 몬스터와 레오나르드를 강화하고 파티 HUD를 50% 크기로 줄여 레벨을 추가했습니다. 기존 보상과 회복 포션 2~5개 보장은 유지됩니다."
+    },
     {
       "date": "2026.10.21",
       "title": "Phase 3 · 장비 비교와 개인 보관함",
