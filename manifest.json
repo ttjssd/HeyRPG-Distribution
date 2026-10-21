@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.29.4",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/4703d82445915bffa8ed1ba4e15f5c3b17347022/files/RPGCore-ClientUI.jar",
-      "sha256": "da8d57a5438b96f9469240bf44bfa044bbc26bfbe55796f531140a701683665e",
-      "size": 54346922,
+      "version": "1.29.5",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/749898eb53d4705d709c79993896ce37587fbac7/files/RPGCore-ClientUI.jar",
+      "sha256": "9ac2e6abfb5ce240b5a40e14035b21d683ebab93ea80816b5417a4b35475750f",
+      "size": 54348820,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.22",
+      "title": "골드 금액 표기 · 금화 아이콘 적용",
+      "body": "캐릭터·제작·강화·상점·던전 화면의 금액 옆 G 표기를 금화 텍스처로 교체했습니다. 기존 출석 금화 자산을 공용 아이콘으로 사용하며 숫자와 쉼표, 보유 금액과 재화 계산은 유지됩니다. ClientUI 업데이트와 게임 재실행 후 적용됩니다."
+    },
     {
       "date": "2026.10.22",
       "title": "캐릭터 · 스탯 · 인벤토리 UI 리뉴얼",
