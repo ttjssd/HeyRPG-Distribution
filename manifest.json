@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.29.2",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/cc743790359b2d58f0f0be8205691da4ec2c4a2d/files/RPGCore-ClientUI.jar",
-      "sha256": "c8d7df34d03376b1775194138d0989a8db0e6dbaf696925325a58a719c702b2c",
-      "size": 53694705,
+      "version": "1.29.3",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/717317587f4cf6fb7cf40ff1ff11609af282717f/files/RPGCore-ClientUI.jar",
+      "sha256": "89c0b1eb266f4c335f8271a572bf8b42590e4b5084e385cca9658dec5230a8c0",
+      "size": 53694909,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.22",
+      "title": "모든 오라 공통 · 자연 회복 +10%",
+      "body": "장착한 모든 오라에 등급과 관계없이 자연 체력 회복 속도 +10% 공통 QoL을 추가했습니다. 기존 자연 회복이 발생할 때 회복량만 1.10배가 됩니다. 포션·성직자·부활 회복과 최대 체력·방어력에는 영향을 주지 않습니다. 오라 외형과 치장 뽑기 확률·티켓 비용·중복 가루는 그대로입니다. 서버 재시작 및 런처 파일 검사 후 적용됩니다."
+    },
     {
       "date": "2026.10.22",
       "title": "파티 딜량 표시 · 투명 HUD · K키 토글",
