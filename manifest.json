@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.29.1",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c03b15ea947e8d17b53e808bc60b3f38586670d8/files/RPGCore-ClientUI.jar",
-      "sha256": "ab55c74361c2de47eb982c3b411bda487224b2c373a87ab47590dba80f2e6256",
-      "size": 53684748,
+      "version": "1.29.2",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/cc743790359b2d58f0f0be8205691da4ec2c4a2d/files/RPGCore-ClientUI.jar",
+      "sha256": "c8d7df34d03376b1775194138d0989a8db0e6dbaf696925325a58a719c702b2c",
+      "size": 53694705,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.22",
+      "title": "파티 딜량 표시 · 투명 HUD · K키 토글",
+      "body": "던전에서 파티원별 누적 피해·순위·기여율을 작은 HUD로 확인합니다. 남은 HP를 초과한 피해는 제외하고 결과창에도 피해 요약을 표시합니다. 파티 HUD 배경과 장식 테두리를 제거했습니다. K키로 딜량 표시만 켜고 끌 수 있으며 조작 설정에서 키 변경이 가능합니다. 숨겨도 집계는 계속됩니다. 기존 전투 보정과 보상은 유지됩니다. 서버 재시작 및 런처 파일 검사 후 적용됩니다."
+    },
     {
       "date": "2026.10.22",
       "title": "근접·원거리 전투 보정 및 보스 템포 개선",
