@@ -68,9 +68,9 @@
   "resourcePack": {
     "name": "RPGStudioPack",
     "version": "T3Greatblade1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/a3b0830260ad54842ffb990b73a0446138b39460/files/RPGStudioPack-Latest.zip",
-    "sha256": "e245e3c62466f99005db2045239b9349ac09997cf0c233d7a3ce7b256b4ccf66",
-    "size": 38765313,
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/761a49b1caef36be1062a123491c865fb09c38e5/files/RPGStudioPack-Latest.zip",
+    "sha256": "2ef1f9a0996e3ef4d1e74b96bc3096919d60a12305034b022dadafb644c1f146",
+    "size": 38765311,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
