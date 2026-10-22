@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.29.7",
+      "version": "1.29.8",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -76,11 +76,11 @@
     }
   ],
   "resourcePack": {
-    "version": "AbyssalCitadel1",
-    "sha256": "ae7adcd112a43bd63edf8e3b5d6bce67a2ff68700b106552a5c45dd67464344e",
+    "version": "AbyssalCitadel2",
+    "sha256": "0077b220b5028f335591a12acac87028c654f980b1e4232a43b2801bbe2fd992",
     "metadata": {
       "pack": {
-        "description": "HeyRPG Abyssal Citadel 1.0",
+        "description": "HeyRPG Abyssal Citadel Combat Rework 2.0",
         "min_format": [
           88,
           0

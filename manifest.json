@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.29.7",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c220f7ca9fed9b231763a8bf106f32491c7b7051/files/RPGCore-ClientUI.jar",
-      "sha256": "c6f94ce518c6ed56a091aa38e58c1372afc5c763f2aebee0ced04cff6a52bc7e",
-      "size": 56659106,
+      "version": "1.29.8",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c96a8b7ff2d61e19e5c7b305602258ff7dc4aeee/files/RPGCore-ClientUI.jar",
+      "sha256": "3d2d45d2a6e96963f4cacfef8ea5c00296e6d5fcda839fc45b0f8a9e765d7790",
+      "size": 56659203,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "AbyssalCitadel1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c220f7ca9fed9b231763a8bf106f32491c7b7051/files/RPGStudioPack-Latest.zip",
-    "sha256": "ae7adcd112a43bd63edf8e3b5d6bce67a2ff68700b106552a5c45dd67464344e",
-    "size": 37724303,
+    "version": "AbyssalCitadel2",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c96a8b7ff2d61e19e5c7b305602258ff7dc4aeee/files/RPGStudioPack-Latest.zip",
+    "sha256": "0077b220b5028f335591a12acac87028c654f980b1e4232a43b2801bbe2fd992",
+    "size": 37867238,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.23",
+      "title": "T3 전투 리워크 · 장비 공명 · 정예와 붉은 월식",
+      "body": "심연의 성채 권장 장비는 T2 방어구 각 +5 / 무기 +7입니다. T3 전용 공명은 저강화 출력과 심연 압력을 조정하며 입장은 계속 자유입니다. 정예2종은 각4스킬, 군주는 기존8종을 유지한 총12패턴과4단계 로테이션을 사용합니다. 최종 월식은 청록 성소를 찾아야 하며3회 피격 낙인 붕괴를 주의하세요. 38종 VFX 텍스처와 장비 안내를 추가했습니다. 기존 보상·전역 활/근접/방어·부적·강화 공식은 유지됩니다. 서버 재시작 및 런처 파일 검사 후 적용됩니다."
+    },
     {
       "date": "2026.10.22",
       "title": "T3 심연의 성채 · 붉은 달의 왕좌",
@@ -224,11 +229,6 @@
       "date": "2026.10.11",
       "title": "아이템 등급 발광 애니메이션",
       "body": "등급별 펄스 / 에너지 흐름 / 모서리 불꽃 / 부드러운 잔광"
-    },
-    {
-      "date": "2026.10.11",
-      "title": "통합 메뉴 / RPG 인벤토리 폴리시",
-      "body": "던전 원격 접근 / 폰트 수정 / 능력치 아이콘 / 등급 테두리 개선"
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
