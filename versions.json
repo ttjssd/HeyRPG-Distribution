@@ -76,11 +76,11 @@
     }
   ],
   "resourcePack": {
-    "version": "AbyssalCitadel2",
-    "sha256": "0077b220b5028f335591a12acac87028c654f980b1e4232a43b2801bbe2fd992",
+    "version": "T3Greatblade1",
+    "sha256": "e245e3c62466f99005db2045239b9349ac09997cf0c233d7a3ce7b256b4ccf66",
     "metadata": {
       "pack": {
-        "description": "HeyRPG Abyssal Citadel Combat Rework 2.0",
+        "description": "HeyRPG T3 Abyssal Greatblade 1.0",
         "min_format": [
           88,
           0
