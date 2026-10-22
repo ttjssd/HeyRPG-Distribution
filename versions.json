@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.29.6",
+      "version": "1.29.7",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -76,11 +76,11 @@
     }
   ],
   "resourcePack": {
-    "version": "GuardianShield1",
-    "sha256": "fad007c346db8d026d73ee572f129f156b64b9983436bb2b559d41d127beca6c",
+    "version": "AbyssalCitadel1",
+    "sha256": "ae7adcd112a43bd63edf8e3b5d6bce67a2ff68700b106552a5c45dd67464344e",
     "metadata": {
       "pack": {
-        "description": "HeyRPG T1 Shadow Dagger Rework",
+        "description": "HeyRPG Abyssal Citadel 1.0",
         "min_format": [
           88,
           0

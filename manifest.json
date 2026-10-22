@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.29.6",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/9c080d10170633ba6eedda674cba23be19ff463c/files/RPGCore-ClientUI.jar",
-      "sha256": "08ceccdc875ae7738f11ec5966e6a7163f81b4cda00873eb59c3d3b1403a7c01",
-      "size": 54351055,
+      "version": "1.29.7",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c220f7ca9fed9b231763a8bf106f32491c7b7051/files/RPGCore-ClientUI.jar",
+      "sha256": "c6f94ce518c6ed56a091aa38e58c1372afc5c763f2aebee0ced04cff6a52bc7e",
+      "size": 56659106,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "GuardianShield1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/da74c18599ffcad5843d3ddb196952a86f629254/files/RPGStudioPack-Latest.zip",
-    "sha256": "fad007c346db8d026d73ee572f129f156b64b9983436bb2b559d41d127beca6c",
-    "size": 37509016,
+    "version": "AbyssalCitadel1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c220f7ca9fed9b231763a8bf106f32491c7b7051/files/RPGStudioPack-Latest.zip",
+    "sha256": "ae7adcd112a43bd63edf8e3b5d6bce67a2ff68700b106552a5c45dd67464344e",
+    "size": 37724303,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.22",
+      "title": "T3 심연의 성채 · 붉은 달의 왕좌",
+      "body": "Lv.35부터 도전 가능한 1~3인 T3 심연의 성채가 추가됩니다. 권장 전투력17,400은 안내이며 입장 제한이 아닙니다. 전초지·회랑·실험실·왕좌, 일반 병력4종·정예2종·4페이즈 군주와8개 패턴을 만나세요. 신규 T3 제작 재료3종, 정상 클리어 개인 보상과 회복 포션2~5개를 획득합니다. T3 무기·방어구는 이번 업데이트에 포함되지 않습니다. 서버 재시작과 런처 파일 검사 후 적용됩니다."
+    },
     {
       "date": "2026.10.22",
       "title": "전투력 · 던전 권장 전투력 · 등급 테두리",
