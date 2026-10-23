@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.29.8",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c96a8b7ff2d61e19e5c7b305602258ff7dc4aeee/files/RPGCore-ClientUI.jar",
-      "sha256": "3d2d45d2a6e96963f4cacfef8ea5c00296e6d5fcda839fc45b0f8a9e765d7790",
-      "size": 56659203,
+      "version": "1.29.9",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/bea97640a7032a3e8bf359982a5bee92abb18e89/files/RPGCore-ClientUI.jar",
+      "sha256": "f47e42054c429acb64f14f4968cadaec6c7a5edb672edafe8721b4656c002661",
+      "size": 56670313,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "T3Greatblade1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/761a49b1caef36be1062a123491c865fb09c38e5/files/RPGStudioPack-Latest.zip",
-    "sha256": "2ef1f9a0996e3ef4d1e74b96bc3096919d60a12305034b022dadafb644c1f146",
-    "size": 38765311,
+    "version": "T3Dagger1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/bea97640a7032a3e8bf359982a5bee92abb18e89/files/RPGStudioPack-Latest.zip",
+    "sha256": "b3c8400ad14ee0ccefcf0c489d4f60c2092c5e1179dd93637a6276991fd680f7",
+    "size": 38826738,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.23",
+      "title": "T3 심연의 단검 · 피격 데미지 숫자 복구",
+      "body": "심연의 단검을 추가했습니다. 역수 전용 입체 모델과 T2 대비1.8배 착용 크기, 2번 그림자 베기 / 3번 그림자 투척 / 4번 암영의 질주 / 5번 심연의 연속참을 지원합니다. 기존 심연 재료120/32/12개와35000골드로 제작합니다. 몬스터 피격 숫자는 공격자에게 실제 최종 피해를 표시하며, 치명타와 8연타를 구분합니다. 기존 K키 딜량 미터·T3 검·보상·강화 공식은 유지합니다. 서버 재시작과 런처 파일 검사 후 적용됩니다."
+    },
     {
       "date": "2026.10.23",
       "title": "T3 첫 무기 · 심연의 대검",
@@ -224,11 +229,6 @@
       "date": "2026.10.12",
       "title": "붉은 기사왕 스킬 아이콘·각성 개선",
       "body": "스킬 아이콘 4종 교체 / 각성 중 일섬 가속·스킬 재사용 감소·공격력 증가"
-    },
-    {
-      "date": "2026.10.11",
-      "title": "붉은 기사왕의 대검 스킬 리워크",
-      "body": "붉은 일섬 / 왕의 처형 / 붉은 검무 / 기사왕의 각성 전용 VFX"
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
