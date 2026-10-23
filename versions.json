@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.30.0",
+      "version": "1.31.0",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -76,11 +76,11 @@
     }
   ],
   "resourcePack": {
-    "version": "T3Sovereign1",
-    "sha256": "fd52e48b298914899d877e5cc70a30662b47f341b710453c3b2742e30e7a161f",
+    "version": "AbyssalPotential1",
+    "sha256": "f63bedadf866ae962b0694ae9a2085f47dc0be1dfe2a7775b87978e0caaa2f86",
     "metadata": {
       "pack": {
-        "description": "HeyRPG T3 Abyssal Sovereign Armor 1.0 / T3Sovereign1",
+        "description": "HeyRPG AbyssalPotential1 / ClientUI 1.31.0",
         "min_format": [
           88,
           0

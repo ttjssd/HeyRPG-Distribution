@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.30.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c761a64468a5e0dbec15217d2ba0db087654497d/files/RPGCore-ClientUI.jar",
-      "sha256": "45029629fec34fe0208d32731ef404c54a2c47ad600d7b8d36a5bc376d1ceee4",
-      "size": 56679305,
+      "version": "1.31.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/30dd6c2836d629319b1a2a843e2759567d674372/files/RPGCore-ClientUI.jar",
+      "sha256": "0ead3e44fa5b98f2652e550105a86d5e6eb8606aa2ca8c713deaa5a00d214983",
+      "size": 59072724,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "T3Sovereign1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c761a64468a5e0dbec15217d2ba0db087654497d/files/RPGStudioPack-Latest.zip",
-    "sha256": "fd52e48b298914899d877e5cc70a30662b47f341b710453c3b2742e30e7a161f",
-    "size": 39444801,
+    "version": "AbyssalPotential1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/30dd6c2836d629319b1a2a843e2759567d674372/files/RPGStudioPack-Latest.zip",
+    "sha256": "f63bedadf866ae962b0694ae9a2085f47dc0be1dfe2a7775b87978e0caaa2f86",
+    "size": 39459663,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.24",
+      "title": "심연의 각인 · 큐브 잠재능력과 전용 등급 프레임",
+      "body": "T2 이상 무기·방패·방어구에 독립 잠재능력 3줄을 추가했습니다. 각인의 큐브와 심연의 큐브로 재설정하고 기존·신규 옵션을 비교해 선택할 수 있습니다. 등급 상승과 미확정 결과는 저장됩니다. 레어·에픽·유니크·레전드리 전용 보석 프레임과 심연 제단 UI를 적용했습니다. T2/T3 최종 클리어 개인 보상에 큐브가 추가됩니다. /각인 또는 큐브 우클릭으로 열 수 있습니다. 서버 재시작과 런처 파일 검사 후 적용됩니다."
+    },
     {
       "date": "2026.10.23",
       "title": "T3 심연의 군주 방어구 · 일렁이는 4세트 오라",
@@ -224,11 +229,6 @@
       "date": "2026.10.12",
       "title": "전체 스킬 아이콘 호환성 복구",
       "body": "스킬 폰트 atlas 크기 호환성 복구 · T1 검 3/5번 VFX 크기 확대"
-    },
-    {
-      "date": "2026.10.12",
-      "title": "T1 기본 검 검술·VFX 리워크",
-      "body": "배기 / 돌진 베기 / 전방 가르기 / 크게 내려치기 · 청백색 검기와 새 아이콘"
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
