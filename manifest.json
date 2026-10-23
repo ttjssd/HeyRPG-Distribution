@@ -68,9 +68,9 @@
   "resourcePack": {
     "name": "RPGStudioPack",
     "version": "T3Dagger1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/bea97640a7032a3e8bf359982a5bee92abb18e89/files/RPGStudioPack-Latest.zip",
-    "sha256": "b3c8400ad14ee0ccefcf0c489d4f60c2092c5e1179dd93637a6276991fd680f7",
-    "size": 38826738,
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/25429ce2fc9027221621709a8528476583dc9ede/files/RPGStudioPack-Latest.zip",
+    "sha256": "577a596827a816d83aa8ddce4ed18de94cb329f6b74960d621797db150b202ff",
+    "size": 38826735,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
