@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.29.9",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/bea97640a7032a3e8bf359982a5bee92abb18e89/files/RPGCore-ClientUI.jar",
-      "sha256": "f47e42054c429acb64f14f4968cadaec6c7a5edb672edafe8721b4656c002661",
-      "size": 56670313,
+      "version": "1.30.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/4e931a136221f3153dc26e90f1df3ce9252612a8/files/RPGCore-ClientUI.jar",
+      "sha256": "a298197ad4e57e2b820e862e2c6be94387fed758815c58f9932af4596f5ff643",
+      "size": 56685452,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "T3Dagger1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/25429ce2fc9027221621709a8528476583dc9ede/files/RPGStudioPack-Latest.zip",
-    "sha256": "577a596827a816d83aa8ddce4ed18de94cb329f6b74960d621797db150b202ff",
-    "size": 38826735,
+    "version": "T3Sovereign1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/4e931a136221f3153dc26e90f1df3ce9252612a8/files/RPGStudioPack-Latest.zip",
+    "sha256": "fd52e48b298914899d877e5cc70a30662b47f341b710453c3b2742e30e7a161f",
+    "size": 39444801,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.23",
+      "title": "T3 심연의 군주 방어구 · 일렁이는 4세트 오라",
+      "body": "심연의 군주 투구·흉갑·레깅스·부츠를 추가했습니다. 왕관형 투구, 층진 견갑, 돌출 결정과 전용 입체 갑주를 사용하며 눈·결정은 밝게 렌더링됩니다. 2세트는 최대 체력 +15%, 적 공격 피해 -8%; 4세트는 공격력 +12%, 치명타 피해 +25%p, 피격 시 확률 보호막과 일렁이는 심연 오라를 제공합니다. 기존 T3 재료3종으로 제작하며 강화·공명·던전 보상은 유지합니다. 서버 재시작과 런처 파일 검사 후 적용됩니다."
+    },
     {
       "date": "2026.10.23",
       "title": "T3 심연의 단검 · 피격 데미지 숫자 복구",
@@ -224,11 +229,6 @@
       "date": "2026.10.12",
       "title": "T1 기본 검 검술·VFX 리워크",
       "body": "배기 / 돌진 베기 / 전방 가르기 / 크게 내려치기 · 청백색 검기와 새 아이콘"
-    },
-    {
-      "date": "2026.10.12",
-      "title": "붉은 기사왕 스킬 아이콘·각성 개선",
-      "body": "스킬 아이콘 4종 교체 / 각성 중 일섬 가속·스킬 재사용 감소·공격력 증가"
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
