@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.31.1",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/f761832057b531f7802a4aecdbf253ad674c823e/files/RPGCore-ClientUI.jar",
-      "sha256": "3ca0dbb0d1372bdc7b5b020aa3c19678b78fdf31ae8d58a42860de64d80cd42a",
-      "size": 59075069,
+      "version": "1.31.2",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/e69848a197277c11d5ca857244877944275e41a3/files/RPGCore-ClientUI.jar",
+      "sha256": "2a9756cccd742075d25adb1c8ac12c0042a67f4a2483b8b1f65feb2ab09ed6e5",
+      "size": 59077450,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,9 +67,9 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "LivePlayPolish1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/f761832057b531f7802a4aecdbf253ad674c823e/files/RPGStudioPack-Latest.zip",
-    "sha256": "ac63056938c112ee7d495c8a4d8c129cfd9eadacd837e9890a4636f8deed780c",
+    "version": "OperationsGrowth1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/e69848a197277c11d5ca857244877944275e41a3/files/RPGStudioPack-Latest.zip",
+    "sha256": "8ee60dd788724973cb99837ae05073081839c32f4307a36e009e271b3f3cb1db",
     "size": 39465674,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.24",
+      "title": "운영·성장·던전 개선 7건 · 연금술사 공방",
+      "body": "스탯 연속 투자 요청 개선과 상한 해제, +1/+10/+100/최대 투자, 관리자 경험치 2배 이벤트·전체 공지, 마리의 던전 재료 판매, 낡은 철광산 웨이브 단축, 던전 결과 스킬별 피해 상세를 추가했습니다. 연금술사 엘라라에게 포션 구매와 하급 3개→중급 1개 조합을 이용할 수 있습니다. 서버 재시작과 런처 파일 검사 후 적용됩니다. ClientUI 1.31.2 / OperationsGrowth1."
+    },
     {
       "date": "2026.10.24",
       "title": "부적 상점 전용 UI 호환 수정 · 편의 개선",
@@ -224,11 +229,6 @@
       "date": "2026.10.13",
       "title": "천공 부적 시스템",
       "body": "별빛 파편 뽑기 / 랜덤 옵션 / 부적 강화와 분해 / 이동속도 적용"
-    },
-    {
-      "date": "2026.10.13",
-      "title": "작물 상점 리뉴얼",
-      "body": "씨앗 구매 · 작물 판매 통합 / 수량 선택 · 최대 구매 · 거래 확인"
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
