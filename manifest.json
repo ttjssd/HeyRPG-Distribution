@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "Accessories1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/e267b0f71b059a6200fa013230b183523e6fb5bb/files/RPGStudioPack-Latest.zip",
-    "sha256": "9690d4986e6097e1051bfb84f9deb8186451d338d334a028126ceae74cccfaff",
-    "size": 39517417,
+    "version": "Accessories2",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/1e1bb8045deffa4bb2f61bb23dfe285c00540410/files/RPGStudioPack-Latest.zip",
+    "sha256": "eee42dfae75373b869a339bc2a8cce40a953b4105b898f9f0939e3153dbaabb1",
+    "size": 39959576,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.24",
+      "title": "T2·T3 악세사리 외형 리마스터 · Accessories2",
+      "body": "목걸이와 반지 4종의 연결 사슬, 왕실 문장, 금속 세공, 다면체 보석과 심연의 룬을 개선했습니다. 텍스처·아이콘을 256×256으로 갱신했습니다. 기존 보유 아이템에 자동 적용되며 능력치·드롭률·랜덤 옵션은 바뀌지 않습니다. 게임을 종료하고 런처 파일 검사 후 실행해주세요. ClientUI 1.32.0 / Accessories2."
+    },
     {
       "date": "2026.10.24",
       "title": "악세사리 시스템 · 목걸이와 반지",
@@ -224,11 +229,6 @@
       "date": "2026.10.13",
       "title": "던전 보상 상자 연출",
       "body": "상자 개방 · 별빛 회전 결정 · 열쇠 봉인 해제 · 기사왕 대검 희귀 획득 연출"
-    },
-    {
-      "date": "2026.10.13",
-      "title": "별빛 파편 던전 보상",
-      "body": "광산 60~1,000 / 기사왕 최종 클리어 150~1,500 파편 · 부적 뽑기 100 파편"
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",

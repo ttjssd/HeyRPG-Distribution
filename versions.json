@@ -76,11 +76,11 @@
     }
   ],
   "resourcePack": {
-    "version": "Accessories1",
-    "sha256": "9690d4986e6097e1051bfb84f9deb8186451d338d334a028126ceae74cccfaff",
+    "version": "Accessories2",
+    "sha256": "eee42dfae75373b869a339bc2a8cce40a953b4105b898f9f0939e3153dbaabb1",
     "metadata": {
       "pack": {
-        "description": "HeyRPG Accessories1 / ClientUI 1.32.0",
+        "description": "HeyRPG Accessories2 / Accessory Model Remaster / ClientUI 1.32.0",
         "min_format": [
           88,
           0
