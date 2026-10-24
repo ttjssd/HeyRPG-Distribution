@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.31.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/30dd6c2836d629319b1a2a843e2759567d674372/files/RPGCore-ClientUI.jar",
-      "sha256": "0ead3e44fa5b98f2652e550105a86d5e6eb8606aa2ca8c713deaa5a00d214983",
-      "size": 59072724,
+      "version": "1.31.1",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/f761832057b531f7802a4aecdbf253ad674c823e/files/RPGCore-ClientUI.jar",
+      "sha256": "3ca0dbb0d1372bdc7b5b020aa3c19678b78fdf31ae8d58a42860de64d80cd42a",
+      "size": 59075069,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "AbyssalPotential1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/30dd6c2836d629319b1a2a843e2759567d674372/files/RPGStudioPack-Latest.zip",
-    "sha256": "f63bedadf866ae962b0694ae9a2085f47dc0be1dfe2a7775b87978e0caaa2f86",
-    "size": 39459663,
+    "version": "LivePlayPolish1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/f761832057b531f7802a4aecdbf253ad674c823e/files/RPGStudioPack-Latest.zip",
+    "sha256": "ac63056938c112ee7d495c8a4d8c129cfd9eadacd837e9890a4636f8deed780c",
+    "size": 39465674,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.24",
+      "title": "부적 상점 전용 UI 호환 수정 · 편의 개선",
+      "body": "서버와 ClientUI의 부적 화면 버전 불일치를 해결했습니다. 부적 일괄 분해, 중급 회복 포션, 성직자 보호막과 T2 단검 타격 이펙트 개선이 포함됩니다. 게임을 종료하고 런처 파일 검사 후 다시 실행해주세요. ClientUI 1.31.1 / LivePlayPolish1."
+    },
     {
       "date": "2026.10.24",
       "title": "잠재능력 큐브 사용 오류 및 허공 우클릭 수정",
@@ -224,11 +229,6 @@
       "date": "2026.10.13",
       "title": "작물 상점 리뉴얼",
       "body": "씨앗 구매 · 작물 판매 통합 / 수량 선택 · 최대 구매 · 거래 확인"
-    },
-    {
-      "date": "2026.10.12",
-      "title": "T1 그림자 단검 리뉴얼",
-      "body": "3연타 · 5초 은신 · 후방 기습 · 확정 치명타 / 전체 스킬 아이콘 검증"
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",

@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.31.0",
+      "version": "1.31.1",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -76,11 +76,11 @@
     }
   ],
   "resourcePack": {
-    "version": "AbyssalPotential1",
-    "sha256": "f63bedadf866ae962b0694ae9a2085f47dc0be1dfe2a7775b87978e0caaa2f86",
+    "version": "LivePlayPolish1",
+    "sha256": "ac63056938c112ee7d495c8a4d8c129cfd9eadacd837e9890a4636f8deed780c",
     "metadata": {
       "pack": {
-        "description": "HeyRPG AbyssalPotential1 / ClientUI 1.31.0",
+        "description": "HeyRPG LivePlayPolish1 / ClientUI 1.31.1",
         "min_format": [
           88,
           0
