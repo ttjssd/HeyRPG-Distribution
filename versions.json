@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.31.2",
+      "version": "1.32.0",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -76,11 +76,11 @@
     }
   ],
   "resourcePack": {
-    "version": "OperationsGrowth1",
-    "sha256": "8ee60dd788724973cb99837ae05073081839c32f4307a36e009e271b3f3cb1db",
+    "version": "Accessories1",
+    "sha256": "9690d4986e6097e1051bfb84f9deb8186451d338d334a028126ceae74cccfaff",
     "metadata": {
       "pack": {
-        "description": "HeyRPG OperationsGrowth1 / ClientUI 1.31.2",
+        "description": "HeyRPG Accessories1 / ClientUI 1.32.0",
         "min_format": [
           88,
           0
