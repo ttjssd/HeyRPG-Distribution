@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.32.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/e267b0f71b059a6200fa013230b183523e6fb5bb/files/RPGCore-ClientUI.jar",
-      "sha256": "ada4d7655ba91a276750a64ad94fd1310a12cb8c4434e00369e0424b1706d85b",
-      "size": 59078674,
+      "version": "1.33.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/1e99ee146988ef9d317bf6bacef0bdb114b8efeb/files/RPGCore-ClientUI.jar",
+      "sha256": "341388c73fc15a153d26f3f5b8ecbad7392a6abe6cd07b14e31a3b5d1243ec33",
+      "size": 59097406,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.24",
+      "title": "강화 전승 추가 · ClientUI 1.33.0",
+      "body": "대장장이 → 장비 강화 → 강화 전승에서 같은 무기 계열/방어구 부위의 바로 다음 티어 장비로 강화 성과를 이어갈 수 있습니다. +4~5→+1, +6~7→+2, +8~9→+3, +10→+4, 성공률 100%. T2→T3 비용은 100/250/500/900골드입니다. 재료 장비는 소모되며 그 잠재능력·옵션은 전승되지 않습니다. 대상의 기존 잠재능력·옵션은 보존합니다. 장착/무기 슬롯 등록을 해제하고 가방에서 선택한 뒤 미리보기와 최종 확인을 진행하세요. 기존 강화 확률과 전투·보상 수치는 유지합니다. 서버 재시작과 런처 파일 검사 후 적용됩니다. Accessories2 리마스터와 보스전 VFX 핫픽스를 포함합니다."
+    },
     {
       "date": "2026.10.24",
       "title": "T2·T3 보스전 플레이어 VFX 동시 출력 수정",
@@ -224,11 +229,6 @@
       "date": "2026.10.19",
       "title": "던전 선택·입장 UI 리뉴얼",
       "body": "T1/T2 던전 선택, 몬스터 정보와 제작 재료, 파티 입장 화면을 새롭게 정리했습니다."
-    },
-    {
-      "date": "2026.10.14",
-      "title": "부적 상점 화면 정리",
-      "body": "글자·확률·미리보기 정렬 및 기존 장착 부적 아이콘 호환성 개선"
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
