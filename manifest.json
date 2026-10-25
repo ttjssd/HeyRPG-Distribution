@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.33.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/1e99ee146988ef9d317bf6bacef0bdb114b8efeb/files/RPGCore-ClientUI.jar",
-      "sha256": "341388c73fc15a153d26f3f5b8ecbad7392a6abe6cd07b14e31a3b5d1243ec33",
-      "size": 59097406,
+      "version": "1.34.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/10ece4f6b7f747c9db0ae2ac9e2f7d5e516a2b16/files/RPGCore-ClientUI.jar",
+      "sha256": "c2aea77dcf9c971d7568f07808ee1bf9a54afaea0c5c7df14ca01340e8dcbe68",
+      "size": 59119605,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.25",
+      "title": "왕국 통합 경매장 출시 · ClientUI 1.34.0",
+      "body": "왕국 경매장 관리인에게서 지정가 판매·경쟁 경매·특별 경매, 검색·필터·장비 비교, 내 판매·입찰·거래 기록과 우편함을 이용할 수 있습니다. 등록료 1%(최소 10골드), 완료 수수료 5%, 입찰 증가 5%, 최대 등록 10개, 경매 시간 30분/2시간/6시간입니다. 입찰금은 즉시 예치되며 상위 입찰 환불과 낙찰품·판매 대금은 우편함에서 수령합니다. AI 상인 3종은 유한 예산·공급 제한 안에서 거래합니다. NPC는 서버 시작 시 등록관 옆 안전 공간에 배치됩니다. 원본 강화·잠재능력·악세사리 옵션을 보존하며 기존 강화 전승·전투·VFX·보상 수치는 유지합니다. 서버 시작 후 런처 파일 검사를 진행하세요."
+    },
     {
       "date": "2026.10.24",
       "title": "강화 전승 추가 · ClientUI 1.33.0",
@@ -224,11 +229,6 @@
       "date": "2026.10.19",
       "title": "주력기 연타 안정화 · ClientUI 1.28.2",
       "body": "무쿨 주력기의 연타 안정성을 개선했습니다. 친구를 포함한 모든 플레이어는 런처 파일 검사 후 접속해주세요."
-    },
-    {
-      "date": "2026.10.19",
-      "title": "던전 선택·입장 UI 리뉴얼",
-      "body": "T1/T2 던전 선택, 몬스터 정보와 제작 재료, 파티 입장 화면을 새롭게 정리했습니다."
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",

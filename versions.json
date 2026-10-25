@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.33.0",
+      "version": "1.34.0",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -94,6 +94,6 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.2.0",
-  "buildId": "EnhancementTransfer1",
+  "buildId": "KingdomAuction1",
   "authMode": "OFFICIAL_LAUNCHER"
 }
