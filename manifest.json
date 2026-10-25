@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.34.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/10ece4f6b7f747c9db0ae2ac9e2f7d5e516a2b16/files/RPGCore-ClientUI.jar",
-      "sha256": "c2aea77dcf9c971d7568f07808ee1bf9a54afaea0c5c7df14ca01340e8dcbe68",
-      "size": 59119605,
+      "version": "1.34.1",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c6865ae6fc92810e2d8113b4808b7d6e84762be5/files/RPGCore-ClientUI.jar",
+      "sha256": "f6ddc9df2d91f8b4cbf0200074bdded02701032cc27aa3ed936e9c962610cdb0",
+      "size": 59120174,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.25",
+      "title": "경매장 등록 패널 가독성 수정 · ClientUI 1.34.1",
+      "body": "등록 패널의 시작가·즉시 구매가 입력, 수수료, 즉시 구매 없음 안내, 등록 확인 버튼을 독립된 행으로 분리했습니다. 전체 탭의 텍스트·버튼 경계와 긴 문구·금액·GUI Scale을 점검했습니다. 경매 가격, AI 거래, 예치금·환불·수수료, 강화 전승과 VFX는 그대로 유지합니다. 게임 종료 후 런처 파일 검사로 적용됩니다. 서버 재시작은 필요하지 않습니다."
+    },
     {
       "date": "2026.10.25",
       "title": "왕국 통합 경매장 출시 · ClientUI 1.34.0",
@@ -224,11 +229,6 @@
       "date": "2026.10.19",
       "title": "런처 1.1.7 · 업데이트 공지 자동 갱신",
       "body": "런처를 열어둔 동안 새 공지를 30초마다 확인합니다. 게임을 종료한 뒤 런처를 다시 열면 1.1.7로 자동 업데이트됩니다."
-    },
-    {
-      "date": "2026.10.19",
-      "title": "주력기 연타 안정화 · ClientUI 1.28.2",
-      "body": "무쿨 주력기의 연타 안정성을 개선했습니다. 친구를 포함한 모든 플레이어는 런처 파일 검사 후 접속해주세요."
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
