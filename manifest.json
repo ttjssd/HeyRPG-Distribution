@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.35.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/d6029fd939742101d0aa86004b4c16034526e063/files/RPGCore-ClientUI.jar",
-      "sha256": "c38b6144da6f836d155ba511fbef5bdea9cb4cd392d58727ae72b78acc43cd5a",
-      "size": 61708128,
+      "version": "1.36.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/8bcef6145fdc4a7850ba8531c61c8059990e6aa6/files/RPGCore-ClientUI.jar",
+      "sha256": "a548a8db31fa084d0f0a4f0e752dd04d9f06057d12b8d69964428e023c0593e8",
+      "size": 62800912,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.26",
+      "title": "RAID PROJECT Phase 2 · 봉인된 왕좌 맵 탐험",
+      "body": "약 121만 블록의 대형 공중 성채와 입구·붉은 다리·흑요석 회랑·파멸의 제단·봉인된 왕좌를 추가했습니다. 관리인 근처에서 전원 준비 후 탐험 입장을 선택하세요. 최초 선택 시 전용 월드를 준비하므로 잠시 후 다시 입장하면 됩니다. 평균 CP 기반 AI 동료가 함께 이동하며 /rpgraid leave로 귀환합니다. 현재는 안전한 탐험 모드로 보스·위험 기믹·클리어·보상이 없습니다. 서버 다음 시작 시 Core 적용, 본인과 친구 모두 게임 종료 후 런처 파일 검사로 ClientUI 1.36.0을 받으세요."
+    },
     {
       "date": "2026.10.26",
       "title": "RAID PROJECT Phase 1 · 4인 편성과 AI 동료 기반",
@@ -224,11 +229,6 @@
       "date": "2026.10.20",
       "title": "Core UI & Reward Polish Hotfix",
       "body": "강화 저장 오류와 보호권 아이콘을 수정했습니다. 대장장이와 도감 화면을 개선하고, 던전 입장 중 Gold 표시를 정리했습니다. 출석은 기존 랜덤 보상과 별도로 치장 뽑기권 1장을 매일 확정 지급합니다."
-    },
-    {
-      "date": "2026.10.19",
-      "title": "런처 UI 2.0 · 왕국으로 향하는 새로운 화면",
-      "body": "왕성 배경과 금장 테마, 새 가이드 카드와 파일 상태 화면을 적용했습니다. 공지는 30초마다 갱신됩니다. 게임 종료 후 런처를 다시 열어 업데이트해주세요."
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",

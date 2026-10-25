@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.35.0",
+      "version": "1.36.0",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -94,6 +94,6 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.2.0",
-  "buildId": "RaidPhase1",
+  "buildId": "RaidMap2",
   "authMode": "OFFICIAL_LAUNCHER"
 }
