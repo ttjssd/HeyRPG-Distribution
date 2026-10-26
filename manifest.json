@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.36.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/8bcef6145fdc4a7850ba8531c61c8059990e6aa6/files/RPGCore-ClientUI.jar",
-      "sha256": "a548a8db31fa084d0f0a4f0e752dd04d9f06057d12b8d69964428e023c0593e8",
-      "size": 62800912,
+      "version": "1.37.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/9f804919331dec67ffb64019876b40f292bb6578/files/RPGCore-ClientUI.jar",
+      "sha256": "c500a3aaec10f9d2e86d3187816dcc7eabdc2e736310cf83603d23e6858002a0",
+      "size": 62809518,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "Accessories2",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/1e1bb8045deffa4bb2f61bb23dfe285c00540410/files/RPGStudioPack-Latest.zip",
-    "sha256": "eee42dfae75373b869a339bc2a8cce40a953b4105b898f9f0939e3153dbaabb1",
-    "size": 39959576,
+    "version": "RaidBoss3B1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/9f804919331dec67ffb64019876b40f292bb6578/files/RPGStudioPack-Latest.zip",
+    "sha256": "4746081ae3a69f8352ad0c2c1f1837477efcfec64ea45fe0eb090cf6d10f6533",
+    "size": 40841273,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.26",
+      "title": "RAID PROJECT Phase 3B · 칠흑의 파멸자 정식 전투",
+      "body": "승인된 Phase 3A 모델을 유지하고 3페이즈·9개 패턴 전투를 연결했습니다. 1~4인 입장 시 부족한 인원을 평균 전투력 기반 AI가 채우며 공격·치유·보호·회피·사슬 구조에 참여합니다. 왕좌 전장에 전원 집결하면 전투가 시작됩니다. 보스 HP·패턴·4인 상태와 결과 화면을 추가했고 종료 후 15초 뒤 안전 귀환합니다. Phase 4 보상은 아직 제공하지 않습니다. 서버 다음 시작 시 Core 적용, 본인과 친구 모두 게임 종료 후 런처 파일 검사로 ClientUI 1.37.0 / RaidBoss3B1을 받으세요. 오프라인 검증 완료, 실제 전투 확인은 접속 후 진행해주세요."
+    },
     {
       "date": "2026.10.26",
       "title": "RAID PROJECT Phase 2 · 봉인된 왕좌 맵 탐험",
@@ -224,11 +229,6 @@
       "date": "2026.10.20",
       "title": "Blacksmith Hub UI 2.0",
       "body": "대장장이 첫 화면을 시네마틱 제작·강화·복구 일러스트와 금장 프레임으로 개편했습니다. 제목·버튼과 설명에 명조 글꼴을 구분 적용하고 기존 작업대로의 진입과 뒤로가기를 정리했습니다. 제작법·강화 확률·보호·복구 기능은 그대로 유지됩니다."
-    },
-    {
-      "date": "2026.10.20",
-      "title": "Core UI & Reward Polish Hotfix",
-      "body": "강화 저장 오류와 보호권 아이콘을 수정했습니다. 대장장이와 도감 화면을 개선하고, 던전 입장 중 Gold 표시를 정리했습니다. 출석은 기존 랜덤 보상과 별도로 치장 뽑기권 1장을 매일 확정 지급합니다."
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
