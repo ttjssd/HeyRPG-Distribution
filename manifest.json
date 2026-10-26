@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.37.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/9f804919331dec67ffb64019876b40f292bb6578/files/RPGCore-ClientUI.jar",
-      "sha256": "c500a3aaec10f9d2e86d3187816dcc7eabdc2e736310cf83603d23e6858002a0",
-      "size": 62809518,
+      "version": "1.38.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/ab511fd05cef042741c05d02fd341b76fb8e2670/files/RPGCore-ClientUI.jar",
+      "sha256": "aa38b4340e6e8c49f9342e4260ecec162d75d942888b12a607ff81a6d2b01b87",
+      "size": 62826952,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "RaidBoss3B1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/9f804919331dec67ffb64019876b40f292bb6578/files/RPGStudioPack-Latest.zip",
-    "sha256": "4746081ae3a69f8352ad0c2c1f1837477efcfec64ea45fe0eb090cf6d10f6533",
-    "size": 40841273,
+    "version": "RaidRewards4",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/ab511fd05cef042741c05d02fd341b76fb8e2670/files/RPGStudioPack-Latest.zip",
+    "sha256": "ed8815d241ec942dde936df7ad59c3a0c9e8a098298ad5cd73733f3288aa62ce",
+    "size": 42170123,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.26",
+      "title": "RAID PROJECT Phase 4 · 심연의 전리품과 궁극기",
+      "body": "레이드 성공 시 실제 참가자별로 주문서·극희귀 궁극기 스킬북을 독립 추첨하고 기존 경매장 우편함에 안전하게 보관합니다. 주문서는 공격력 +3 / 치명타 +2%p / 보스 피해 +3% / 공격 속도 +2%이며 무기에 서로 다른 2종을 적용할 수 있습니다. 대장장이 → 장비 강화 → 레이드 주문서에서 전후 수치와 CP를 확인한 뒤 적용하세요. 스킬북은 허공 우클릭 후 소유 무기 계열을 선택해 영구 습득합니다. 검·단검·활·방패 궁극기는 V키 전용 슬롯과 공용 180초 쿨타임을 사용하며 키 변경이 가능합니다. 기존 강화·잠재능력·전승·거래와 승인 보스 모델을 유지했습니다. 본인과 친구 모두 게임 종료 후 런처 파일 검사로 ClientUI 1.38.0 / RaidRewards4를 받은 뒤 접속해주세요. 오프라인 검증 완료, 실제 인게임 테스트는 사용자 진행입니다."
+    },
     {
       "date": "2026.10.26",
       "title": "RAID PROJECT Phase 3B · 칠흑의 파멸자 정식 전투",
@@ -224,11 +229,6 @@
       "date": "2026.10.20",
       "title": "전투·던전 보상·파티 HUD 개선",
       "body": "던전 파티 체력 HUD를 추가하고, 모든 던전의 별빛 파편 지급 경로와 요새 포션 보상을 보완했습니다. 치장 뽑기권 획득률은 광산35%·붉은 기사단40%·요새50%로 조정하며 별빛 파편은 부적 재화로 유지됩니다. 클리어 Gold를 상향하고 보스 원거리 대응, 부적 체력·공격력 고정 수치, 사망 후 오라 유지도 개선했습니다."
-    },
-    {
-      "date": "2026.10.20",
-      "title": "Blacksmith Hub UI 2.0",
-      "body": "대장장이 첫 화면을 시네마틱 제작·강화·복구 일러스트와 금장 프레임으로 개편했습니다. 제목·버튼과 설명에 명조 글꼴을 구분 적용하고 기존 작업대로의 진입과 뒤로가기를 정리했습니다. 제작법·강화 확률·보호·복구 기능은 그대로 유지됩니다."
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",

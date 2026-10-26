@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.37.0",
+      "version": "1.38.0",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -76,11 +76,11 @@
     }
   ],
   "resourcePack": {
-    "version": "RaidBoss3B1",
-    "sha256": "4746081ae3a69f8352ad0c2c1f1837477efcfec64ea45fe0eb090cf6d10f6533",
+    "version": "RaidRewards4",
+    "sha256": "ed8815d241ec942dde936df7ad59c3a0c9e8a098298ad5cd73733f3288aa62ce",
     "metadata": {
       "pack": {
-        "description": "HeyRPG RaidBoss3B1 / Destroyer 3-Phase Raid / ClientUI 1.37.0",
+        "description": "HeyRPG RaidRewards4 / Raid Scrolls and Ultimates / ClientUI 1.38.0",
         "min_format": [
           88,
           0
@@ -94,6 +94,6 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.2.0",
-  "buildId": "RaidBoss3B1",
+  "buildId": "RaidRewards4",
   "authMode": "OFFICIAL_LAUNCHER"
 }
