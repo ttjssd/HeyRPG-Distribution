@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.38.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/ab511fd05cef042741c05d02fd341b76fb8e2670/files/RPGCore-ClientUI.jar",
-      "sha256": "aa38b4340e6e8c49f9342e4260ecec162d75d942888b12a607ff81a6d2b01b87",
-      "size": 62826952,
+      "version": "1.38.1",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/59d0b984a4cd38f270bc063e9cc9e15168e7eb9a/files/RPGCore-ClientUI.jar",
+      "sha256": "67453b82fb728e883c3eff429f683e14b47aca8cf06e209beccd788d8dc04e2a",
+      "size": 62832205,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "RaidRewards4",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/ab511fd05cef042741c05d02fd341b76fb8e2670/files/RPGStudioPack-Latest.zip",
-    "sha256": "ed8815d241ec942dde936df7ad59c3a0c9e8a098298ad5cd73733f3288aa62ce",
-    "size": 42170123,
+    "version": "RaidProgress41",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/59d0b984a4cd38f270bc063e9cc9e15168e7eb9a/files/RPGStudioPack-Latest.zip",
+    "sha256": "38d135fae8e2b21b3a01caac17b1562a6bdbc19c935a6ab6f45877315bc5bc1c",
+    "size": 42170133,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.27",
+      "title": "RAID PROJECT Phase 4.1 · 봉인의 수호자와 협동 제단",
+      "body": "AI 동료의 이동 물리가 비활성화되던 원인을 수정했습니다. 입장 즉시 목표·구역·안전 경유 방향·거리를 안내합니다. 붉은 기사단의 잔영 → 타락한 왕의 잔영 → 심연의 수호자를 순서대로 처치하고 기존 제단의 봉인석 4개를 해제하면 최종 왕좌가 열립니다. 봉인석은 우클릭 후 3초 유지하며 AI도 이동·채널링에 참여합니다. 첫 활성화 후 45초 제한이고 실패해도 수호자 처치는 유지됩니다. 승인 보스 모델·3페이즈 9패턴·기존 주문서/궁극기/개인 보상 우편은 유지했습니다. 본인과 친구 모두 게임 종료 후 런처 파일 검사로 ClientUI 1.38.1 / RaidProgress41을 받은 뒤 접속해주세요. 오프라인 검증 완료이며 실제 Paper 이동·전투 체감은 사용자 인게임 확인이 필요합니다."
+    },
     {
       "date": "2026.10.26",
       "title": "RAID PROJECT Phase 4 · 심연의 전리품과 궁극기",
@@ -224,11 +229,6 @@
       "date": "2026.10.21",
       "title": "T2 탱커 방패 · 잊혀진 왕의 수호방패",
       "body": "잊혀진 왕의 요새 재료로 제작하는 T2 탱커 방패를 추가했습니다. 왕실 방패 강타·도발·충격파·4초 파티 보호 스킬과 전용 3D 모델, 아이콘 및 효과를 적용했습니다. 기존 던전 보상과 강화 확률은 유지됩니다."
-    },
-    {
-      "date": "2026.10.20",
-      "title": "전투·던전 보상·파티 HUD 개선",
-      "body": "던전 파티 체력 HUD를 추가하고, 모든 던전의 별빛 파편 지급 경로와 요새 포션 보상을 보완했습니다. 치장 뽑기권 획득률은 광산35%·붉은 기사단40%·요새50%로 조정하며 별빛 파편은 부적 재화로 유지됩니다. 클리어 Gold를 상향하고 보스 원거리 대응, 부적 체력·공격력 고정 수치, 사망 후 오라 유지도 개선했습니다."
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
