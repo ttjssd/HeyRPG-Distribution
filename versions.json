@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.39.0",
+      "version": "1.40.0",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -76,11 +76,11 @@
     }
   ],
   "resourcePack": {
-    "version": "UltimateRemaster1",
-    "sha256": "a2e4435360d4e0a3d8a8567c0b23766ecf34131076f33d611eb134be7e902cf1",
+    "version": "SkillManagement1",
+    "sha256": "246774a4f41f6869d9692d86aed4ec15a9217ae0a93cfb10f5fffeba84c1c70b",
     "metadata": {
       "pack": {
-        "description": "HeyRPG UltimateRemaster1 / Divine Judgment and Abyssal Guidance / ClientUI 1.39.0",
+        "description": "HeyRPG SkillManagement1 / Ultimate catalogue / ClientUI 1.40.0",
         "min_format": [
           88,
           0
@@ -94,6 +94,6 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.2.0",
-  "buildId": "UltimateRemaster1",
+  "buildId": "SkillManagement1",
   "authMode": "OFFICIAL_LAUNCHER"
 }

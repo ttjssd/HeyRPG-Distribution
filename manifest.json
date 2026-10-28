@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.39.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/896c25c662547a88deece82f1af98782ad20d0b1/files/RPGCore-ClientUI.jar",
-      "sha256": "0fc57fe7833d081abb0f2a6b160d61679f1559c0df75e7b4009bb9bcdb7957f2",
-      "size": 62889966,
+      "version": "1.40.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/f6e98ea2098ce95417848bb184ad126ba733a694/files/RPGCore-ClientUI.jar",
+      "sha256": "2e981823c4b862b5b23ae58c1bbb2e1cedb5f38672f849ee83a40c2fe57c15a4",
+      "size": 62909996,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "UltimateRemaster1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/896c25c662547a88deece82f1af98782ad20d0b1/files/RPGStudioPack-Latest.zip",
-    "sha256": "a2e4435360d4e0a3d8a8567c0b23766ecf34131076f33d611eb134be7e902cf1",
-    "size": 45006309,
+    "version": "SkillManagement1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/f6e98ea2098ce95417848bb184ad126ba733a694/files/RPGStudioPack-Latest.zip",
+    "sha256": "246774a4f41f6869d9692d86aed4ec15a9217ae0a93cfb10f5fffeba84c1c70b",
+    "size": 45943105,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.29",
+      "title": "스킬 관리 — 궁극기 도감 · 무기별 장착 · 전용 스킬북",
+      "body": "J키 또는 RPG 메뉴 상단 스킬 J 버튼으로 스킬 관리를 여세요. 검·단검·활·방패 계열별 습득/잠금/장착 상태와 서버 기준 피해·범위·사용 조건을 확인하고 비전투 상태에서 궁극기를 장착합니다. 궁극기 교체·무기 변경·재접속 후에도 기존180초 공용 쿨타임은 유지됩니다. 칠흑의 심연의 새 궁극기 보상은 천벌의 검/심연의 인도 전용 스킬북으로 분리되며 각각0.25%, 합계0.5%입니다. 기존 통합 스킬북은 검·단검·활·방패 중1계열 선택 기능을 유지합니다. 기존 습득 상태는 다음 접속 시 기본 장착과 함께 보존 이전됩니다. 전용 책은 허공 우클릭 후 무기 선택/미리보기/최종 확인으로 습득하며 중복 습득 시 소모되지 않습니다. 기존 궁극기 VFX·피해·타격 횟수·V키·F8·K키는 유지했습니다. 실제 VFX를 UI 내부에서 재생하는 미리보기는 미지원으로 표시합니다. 본인과 친구 모두 게임 종료 후 런처 파일 검사로 ClientUI1.40.0 / SkillManagement1을 받아주세요. 오프라인 검증 완료이며 인게임 확인은 사용자 진행입니다."
+    },
     {
       "date": "2026.10.28",
       "title": "궁극기 VFX 리마스터 — 천벌의 검 · 심연의 인도",
@@ -224,11 +229,6 @@
       "date": "2026.10.21",
       "title": "T1 붉은 폐허 → T2 제작 브릿지",
       "body": "T2 검·단검·활·방어구·수호방패 제작에 기존 붉은 폐허 기초 재료와 요새 핵심 재료를 함께 사용합니다. 기존 장비와 재료는 보존됩니다. 던전 드랍률·Gold·회복 포션 2~5개·희귀 보상은 그대로입니다. 서버 재시작 후 적용됩니다."
-    },
-    {
-      "date": "2026.10.21",
-      "title": "T2 요새 난이도 · 부적 밸런스 · 파티 HUD",
-      "body": "기존 부적 수치를 보존하고 신규 부적 옵션 품질을 조정했습니다. T2 요새 몬스터와 레오나르드를 강화하고 파티 HUD를 50% 크기로 줄여 레벨을 추가했습니다. 기존 보상과 회복 포션 2~5개 보장은 유지됩니다."
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
