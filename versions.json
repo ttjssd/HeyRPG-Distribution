@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.38.1",
+      "version": "1.38.2",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -76,11 +76,11 @@
     }
   ],
   "resourcePack": {
-    "version": "RaidProgress41",
-    "sha256": "38d135fae8e2b21b3a01caac17b1562a6bdbc19c935a6ab6f45877315bc5bc1c",
+    "version": "RaidEntryFix",
+    "sha256": "5e4e909f39bfcc3ff8a52e6704b2183f1dbd92af9ef9f0d8d46317b5c1e3db36",
     "metadata": {
       "pack": {
-        "description": "HeyRPG RaidProgress41 / Elite Guardians and Seal Cooperation / ClientUI 1.38.1",
+        "description": "HeyRPG RaidEntryFix / Raid Spawn and Compact HUD / ClientUI 1.38.2",
         "min_format": [
           88,
           0
@@ -94,6 +94,6 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.2.0",
-  "buildId": "RaidProgress41",
+  "buildId": "RaidEntryFix",
   "authMode": "OFFICIAL_LAUNCHER"
 }

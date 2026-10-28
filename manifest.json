@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.38.1",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/59d0b984a4cd38f270bc063e9cc9e15168e7eb9a/files/RPGCore-ClientUI.jar",
-      "sha256": "67453b82fb728e883c3eff429f683e14b47aca8cf06e209beccd788d8dc04e2a",
-      "size": 62832205,
+      "version": "1.38.2",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c6ab8d76a9e5024a886950c69d3830a92bcccf57/files/RPGCore-ClientUI.jar",
+      "sha256": "9246cd50918c1a46aab6f1b3720fcfafcf57cd4489f866a6c9ac77fba43e32d3",
+      "size": 62832996,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "RaidProgress41",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/59d0b984a4cd38f270bc063e9cc9e15168e7eb9a/files/RPGStudioPack-Latest.zip",
-    "sha256": "38d135fae8e2b21b3a01caac17b1562a6bdbc19c935a6ab6f45877315bc5bc1c",
-    "size": 42170133,
+    "version": "RaidEntryFix",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c6ab8d76a9e5024a886950c69d3830a92bcccf57/files/RPGStudioPack-Latest.zip",
+    "sha256": "5e4e909f39bfcc3ff8a52e6704b2183f1dbd92af9ef9f0d8d46317b5c1e3db36",
+    "size": 42170123,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.28",
+      "title": "레이드 몬스터 소환 오류 · HUD 크기 및 위치 수정",
+      "body": "실제 로그의 Elite spawn cancelled 원인을 수정했습니다. 평화 구역 몬스터 차단 기능이 정식 레이드 소유 몬스터를 인식하도록 연결했으며 일반 마을 몬스터 차단은 유지됩니다. 엘리트 생성 전 엔티티 청크 준비와 스폰 검증을 보강했습니다. 실제 플레이어가 전장에 모이면 AI가 늦어도 수호자가 등장하고, 지연된 AI는 전투에 합류합니다. 목표 창에 전장 집결 인원을 표시합니다. 궁극기 V 아이콘을 32에서18픽셀로 축소하고 레이드 목표 창을 더 위로 이동했습니다. 스킬 피해·쿨타임·보스 패턴·보상·기존 모델은 유지했습니다. 본인과 친구 모두 게임 종료 후 런처 파일 검사로 ClientUI1.38.2 / RaidEntryFix를 받아주세요. 오프라인 리스너·생성·지연 AI·화면 배치 검사 완료이며 실제 인게임 검증은 사용자 진행입니다."
+    },
     {
       "date": "2026.10.27",
       "title": "RAID PROJECT Phase 4.1 · 봉인의 수호자와 협동 제단",
@@ -224,11 +229,6 @@
       "date": "2026.10.21",
       "title": "Phase 3 · 장비 비교와 개인 보관함",
       "body": "강화 수치를 포함한 장비 비교와 54칸 개인 보관함·종류별 정리를 추가했습니다. 세 던전의 새 정상 클리어 보상에서 회복 포션을 반드시 2~5개 획득합니다. 기존 전투·희귀 보상·제작 체계는 유지됩니다. 런처 공지 관리자 대기열과 안전한 게시 도구도 추가했습니다."
-    },
-    {
-      "date": "2026.10.21",
-      "title": "T2 탱커 방패 · 잊혀진 왕의 수호방패",
-      "body": "잊혀진 왕의 요새 재료로 제작하는 T2 탱커 방패를 추가했습니다. 왕실 방패 강타·도발·충격파·4초 파티 보호 스킬과 전용 3D 모델, 아이콘 및 효과를 적용했습니다. 기존 던전 보상과 강화 확률은 유지됩니다."
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
