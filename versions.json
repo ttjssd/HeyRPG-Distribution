@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.38.2",
+      "version": "1.39.0",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -76,11 +76,11 @@
     }
   ],
   "resourcePack": {
-    "version": "RaidEntryFix",
-    "sha256": "5e4e909f39bfcc3ff8a52e6704b2183f1dbd92af9ef9f0d8d46317b5c1e3db36",
+    "version": "UltimateRemaster1",
+    "sha256": "a2e4435360d4e0a3d8a8567c0b23766ecf34131076f33d611eb134be7e902cf1",
     "metadata": {
       "pack": {
-        "description": "HeyRPG RaidEntryFix / Raid Spawn and Compact HUD / ClientUI 1.38.2",
+        "description": "HeyRPG UltimateRemaster1 / Divine Judgment and Abyssal Guidance / ClientUI 1.39.0",
         "min_format": [
           88,
           0
@@ -94,6 +94,6 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.2.0",
-  "buildId": "RaidEntryFix",
+  "buildId": "UltimateRemaster1",
   "authMode": "OFFICIAL_LAUNCHER"
 }
