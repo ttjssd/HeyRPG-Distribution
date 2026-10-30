@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.41.1",
+      "version": "1.41.3",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -76,11 +76,11 @@
     }
   ],
   "resourcePack": {
-    "version": "GradeEnhancement1",
-    "sha256": "19723ec0fdc9b0aba4433e8c74eca31ad3823f3f04b4b15457493c498b1cb60c",
+    "version": "NpcAuctionSupply1",
+    "sha256": "501d141c2d21734645be22c68f6e89df8f88ba11675e232075bd9cb18435b888",
     "metadata": {
       "pack": {
-        "description": "HeyRPG GradeEnhancement1 / ClientUI 1.41.0",
+        "description": "HeyRPG NpcAuctionSupply1 / ClientUI 1.41.3",
         "min_format": [
           88,
           0
@@ -94,6 +94,6 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.2.0",
-  "buildId": "GradeEnhancementUi1",
+  "buildId": "NpcAuctionSupply1",
   "authMode": "OFFICIAL_LAUNCHER"
 }
