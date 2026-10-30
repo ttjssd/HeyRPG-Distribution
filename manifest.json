@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.40.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/f6e98ea2098ce95417848bb184ad126ba733a694/files/RPGCore-ClientUI.jar",
-      "sha256": "2e981823c4b862b5b23ae58c1bbb2e1cedb5f38672f849ee83a40c2fe57c15a4",
-      "size": 62909996,
+      "version": "1.41.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c912cf0526e0f25ade3825d0cecb1f19ed7fcc53/files/RPGCore-ClientUI.jar",
+      "sha256": "adbbaf02172577a041ef67eedb393623ed7d88093e1430ce66b9323f1006c5ce",
+      "size": 62941684,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "SkillManagement1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/f6e98ea2098ce95417848bb184ad126ba733a694/files/RPGStudioPack-Latest.zip",
-    "sha256": "246774a4f41f6869d9692d86aed4ec15a9217ae0a93cfb10f5fffeba84c1c70b",
-    "size": 45943105,
+    "version": "GradeEnhancement1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c912cf0526e0f25ade3825d0cecb1f19ed7fcc53/files/RPGStudioPack-Latest.zip",
+    "sha256": "19723ec0fdc9b0aba4433e8c74eca31ad3823f3f04b4b15457493c498b1cb60c",
+    "size": 58066186,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.30",
+      "title": "장비 등급 강화 — 13등급 · 대성공 · 파괴 장비 복구",
+      "body": "등급 강화 주문서를 허공에 우클릭하거나 /등급강화로 새 양피지 강화창을 여세요. 기존 +0~+10 수치 강화와 별개인13단계 등급이며, 기존 장비의 기본값 일반은 현재 능력을 유지합니다. 장착·로드아웃에서 해제한 가방 장비를 선택하고 능력치·성공/대성공/유지/하락/파괴 확률과 비용을 확인한 후 진행합니다. 대성공은 성공 판정 후10%, 최대태초까지2단계 상승합니다. 보호의 결정은 파괴 결과를1단계 하락으로 전환합니다. 파괴 장비는 소유자별 원본 보관소에 남고 장비 복구 주문서로100% 복구할 수 있습니다. 등급1단계 하락, 기존+강화·잠재능력·추가옵션보존, 장비당1회이며 가방이 가득 차면 개인 우편함으로 지급합니다. 네 가지 새 재료는 초기 운영 검증용 관리자 지급만 제공하며 일반 획득처는 아직 연결하지 않았습니다. 성공·대성공·유지·하락·파괴·복구별 전용 연출과13개 실제 등급 테두리를 추가했습니다. 서버/게임은 실행하지 않았고 오프라인 검증을 마쳤습니다. 게임 종료 후 런처 파일 검사로 ClientUI1.41.0 / GradeEnhancement1을 받아주세요."
+    },
     {
       "date": "2026.10.29",
       "title": "스킬 관리 — 궁극기 도감 · 무기별 장착 · 전용 스킬북",
@@ -224,11 +229,6 @@
       "date": "2026.10.22",
       "title": "근접·원거리 전투 보정 및 보스 템포 개선",
       "body": "PvE 활 피해를40% 낮추고3블록 이내 몬스터 기본 근접 피해를 검·단검50%, 탱커 방패55% 경감합니다. 보스 패턴·투사체·장판은 이 근접 보정에서 제외됩니다. 보스 대기시간을 줄이고 원거리 돌진 대응을 강화했습니다. 기존 스탯·스킬 계수·보상·PvP는 유지됩니다. 서버 재시작 후 적용됩니다."
-    },
-    {
-      "date": "2026.10.21",
-      "title": "T1 붉은 폐허 → T2 제작 브릿지",
-      "body": "T2 검·단검·활·방어구·수호방패 제작에 기존 붉은 폐허 기초 재료와 요새 핵심 재료를 함께 사용합니다. 기존 장비와 재료는 보존됩니다. 던전 드랍률·Gold·회복 포션 2~5개·희귀 보상은 그대로입니다. 서버 재시작 후 적용됩니다."
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",

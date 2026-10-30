@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.40.0",
+      "version": "1.41.0",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -76,11 +76,11 @@
     }
   ],
   "resourcePack": {
-    "version": "SkillManagement1",
-    "sha256": "246774a4f41f6869d9692d86aed4ec15a9217ae0a93cfb10f5fffeba84c1c70b",
+    "version": "GradeEnhancement1",
+    "sha256": "19723ec0fdc9b0aba4433e8c74eca31ad3823f3f04b4b15457493c498b1cb60c",
     "metadata": {
       "pack": {
-        "description": "HeyRPG SkillManagement1 / Ultimate catalogue / ClientUI 1.40.0",
+        "description": "HeyRPG GradeEnhancement1 / ClientUI 1.41.0",
         "min_format": [
           88,
           0
@@ -94,6 +94,6 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.2.0",
-  "buildId": "SkillManagement1",
+  "buildId": "GradeEnhancement1",
   "authMode": "OFFICIAL_LAUNCHER"
 }
