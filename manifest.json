@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.41.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/8e801d10400135b8f59f9d3deccd895611637b08/files/RPGCore-ClientUI.jar",
-      "sha256": "1a0b40d33bb3e166ed66fcd4f668862da210d59197cbca1ab71b3d6539a6c6d0",
-      "size": 62942139,
+      "version": "1.41.1",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/19aabeb38fbed342fbdfdcdaf3fefb4e9dd5e197/files/RPGCore-ClientUI.jar",
+      "sha256": "d5dd25a8518fd2f77f6aeca6ad80e273fb5df9551974403ad20051e358badbef",
+      "size": 62942597,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.30",
+      "title": "등급 강화 UI 정렬 개선",
+      "body": "강화창 상단 제목을 제거하고 무기·방어구·장식구 3개 탭으로 정리했습니다. 아이콘과 글자를 독립된 행에 배치하고 선택 밑줄을 적용했습니다. 하단은 성공 가능성·파괴 가능성·등급 하락 가능성 3열 표, 비용 및 재료 아이콘 행, 붉은 두 줄 안내문으로 재배치했습니다. 실제 확률과 비용은 그대로입니다. 게임 종료 후 런처 파일 검사로 ClientUI1.41.1을 받아주세요. 리소스팩은 GradeEnhancement1 그대로입니다."
+    },
     {
       "date": "2026.10.30",
       "title": "장비 등급 강화 — 13등급 · 대성공 · 파괴 장비 복구",
@@ -224,11 +229,6 @@
       "date": "2026.10.22",
       "title": "파티 딜량 표시 · 투명 HUD · K키 토글",
       "body": "던전에서 파티원별 누적 피해·순위·기여율을 작은 HUD로 확인합니다. 남은 HP를 초과한 피해는 제외하고 결과창에도 피해 요약을 표시합니다. 파티 HUD 배경과 장식 테두리를 제거했습니다. K키로 딜량 표시만 켜고 끌 수 있으며 조작 설정에서 키 변경이 가능합니다. 숨겨도 집계는 계속됩니다. 기존 전투 보정과 보상은 유지됩니다. 서버 재시작 및 런처 파일 검사 후 적용됩니다."
-    },
-    {
-      "date": "2026.10.22",
-      "title": "근접·원거리 전투 보정 및 보스 템포 개선",
-      "body": "PvE 활 피해를40% 낮추고3블록 이내 몬스터 기본 근접 피해를 검·단검50%, 탱커 방패55% 경감합니다. 보스 패턴·투사체·장판은 이 근접 보정에서 제외됩니다. 보스 대기시간을 줄이고 원거리 돌진 대응을 강화했습니다. 기존 스탯·스킬 계수·보상·PvP는 유지됩니다. 서버 재시작 후 적용됩니다."
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
