@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.41.3",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/72c02c042f897b5ee320236c347ae78817816492/files/RPGCore-ClientUI.jar",
-      "sha256": "79e9bf3bca632b6b3e8dbcd4a3528a513fdaed884d980fc9dad872dde995eb5d",
-      "size": 63100470,
+      "version": "1.42.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/1d5a9a5996408f10474d45b2741f3b2e9eb83e7c/files/RPGCore-ClientUI.jar",
+      "sha256": "f51059e9e4ce9bfdf9ce984fcf8db14fc52ef4525eefc8711efd27cccd35e501",
+      "size": 63114894,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -67,10 +67,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "NpcAuctionSupply1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/72c02c042f897b5ee320236c347ae78817816492/files/RPGStudioPack-Latest.zip",
-    "sha256": "501d141c2d21734645be22c68f6e89df8f88ba11675e232075bd9cb18435b888",
-    "size": 58436287,
+    "version": "AbyssDragon1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/1d5a9a5996408f10474d45b2741f3b2e9eb83e7c/files/RPGStudioPack-Latest.zip",
+    "sha256": "a7d0de8a3748156d08ede67c7bc20051512e8b0a45ff39120447dab9393fbd2e",
+    "size": 59384310,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -80,6 +80,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.31",
+      "title": "칠흑의 파멸자 — 심연의 고룡 적용",
+      "body": "기존 봉인된 왕좌의 최종 보스를 개선된 37관절 심연의 고룡 모델로 교체합니다. 입에서 나오는 브레스·발톱·꼬리 공격과 경고 범위를 연결하고, 실제 서버 위치를 사용하는 짧은 저공 비행과 착지를 반영했습니다. 보스 HP는 하나이며 여러 부위 피격의 중복 피해를 방지합니다. 기존 70%/35% 페이즈 기준과 피해 계수·보상은 유지합니다. 전원 게임 종료 후 런처 파일 검사로 ClientUI1.42.0 / AbyssDragon1을 받아주세요. 구버전 또는 자산 누락 시 입장을 안내하며, 진행 중 자산 오류는 파티 전체 LEGACY 외형으로 복귀합니다. OP:/rpgraid admin dragon spawn/status/remove, mode LEGACY 또는 DRAGON은 다음 레이드부터 적용합니다. 관리자 장면은 시각 점검용이며 피해·보상이 없습니다. 서버와 게임은 실행하지 않았으며 실제 전투·성능은 사용자 인게임 확인이 필요합니다."
+    },
     {
       "date": "2026.10.31",
       "title": "경매장 NPC 수동 추가 명령",
@@ -224,11 +229,6 @@
       "date": "2026.10.22",
       "title": "골드 금액 표기 · 금화 아이콘 적용",
       "body": "캐릭터·제작·강화·상점·던전 화면의 금액 옆 G 표기를 금화 텍스처로 교체했습니다. 기존 출석 금화 자산을 공용 아이콘으로 사용하며 숫자와 쉼표, 보유 금액과 재화 계산은 유지됩니다. ClientUI 업데이트와 게임 재실행 후 적용됩니다."
-    },
-    {
-      "date": "2026.10.22",
-      "title": "캐릭터 · 스탯 · 인벤토리 UI 리뉴얼",
-      "body": "Shift+F의 캐릭터·인벤토리를 다크 판타지 화면으로 통합했습니다. 전용 무기고 배경, 명조 제목, 장비 슬롯, 스탯 투자, 강화 상세, 부적과 오라를 한 화면에서 확인할 수 있습니다. 36칸 가방 검색·분류와 C 장비 비교를 지원합니다. 가방 이동·합치기는 기존 E 인벤토리, 보관함 정렬은 기존 기능을 사용합니다. 전투 수치·강화·아이템·치장 획득 규칙은 유지합니다. 서버 재시작 및 런처 파일 검사 후 적용됩니다."
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",

@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.41.3",
+      "version": "1.42.0",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -76,11 +76,11 @@
     }
   ],
   "resourcePack": {
-    "version": "NpcAuctionSupply1",
-    "sha256": "501d141c2d21734645be22c68f6e89df8f88ba11675e232075bd9cb18435b888",
+    "version": "AbyssDragon1",
+    "sha256": "a7d0de8a3748156d08ede67c7bc20051512e8b0a45ff39120447dab9393fbd2e",
     "metadata": {
       "pack": {
-        "description": "HeyRPG NpcAuctionSupply1 / ClientUI 1.41.3",
+        "description": "HeyRPG AbyssDragon1 / ClientUI1.42.0 / Dragon raid + LEGACY rollback",
         "min_format": [
           88,
           0
@@ -94,6 +94,6 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.2.0",
-  "buildId": "NpcAuctionManual1",
+  "buildId": "AbyssDragon1",
   "authMode": "OFFICIAL_LAUNCHER"
 }
