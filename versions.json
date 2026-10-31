@@ -77,12 +77,14 @@
     {
       "filename": "entity_model_features-3.3.12-26.2-fabric.jar",
       "version": "3.3.12",
-      "sha256": "3a45fb9b028f6e2303438c74e91410223e8af503637956d876a75dd4f9af4af5"
+      "sha256": "3a45fb9b028f6e2303438c74e91410223e8af503637956d876a75dd4f9af4af5",
+      "id": "entity_model_features"
     },
     {
       "filename": "entity_texture_features-7.2.6-26.2-fabric.jar",
       "version": "7.2.6",
-      "sha256": "2e0118df6a1610d6712a8f05e87b9dd2a8ab06d77057243777c30fd664aed905"
+      "sha256": "2e0118df6a1610d6712a8f05e87b9dd2a8ab06d77057243777c30fd664aed905",
+      "id": "entity_texture_features"
     }
   ],
   "resourcePack": {
