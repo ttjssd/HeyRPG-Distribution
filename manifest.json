@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.42.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/1d5a9a5996408f10474d45b2741f3b2e9eb83e7c/files/RPGCore-ClientUI.jar",
-      "sha256": "f51059e9e4ce9bfdf9ce984fcf8db14fc52ef4525eefc8711efd27cccd35e501",
-      "size": 63114894,
+      "version": "1.42.1",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/cd8ec09a3b11bc9e9fabbe26c790513a2c141fc3/files/RPGCore-ClientUI.jar",
+      "sha256": "bd14e2068820fcccd0e96f893936549a092eddce0d8fa8fb3ae633d0cc3de617",
+      "size": 63116127,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -89,10 +89,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "AbyssDragon1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/1d5a9a5996408f10474d45b2741f3b2e9eb83e7c/files/RPGStudioPack-Latest.zip",
-    "sha256": "a7d0de8a3748156d08ede67c7bc20051512e8b0a45ff39120447dab9393fbd2e",
-    "size": 59384310,
+    "version": "AbyssDragonFix1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/cd8ec09a3b11bc9e9fabbe26c790513a2c141fc3/files/RPGStudioPack-Latest.zip",
+    "sha256": "31c52cfc203ffea82c5a1e7712f7fc773648a07f9252da492fee09160dd0e9bd",
+    "size": 59384681,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -102,6 +102,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.31",
+      "title": "드래곤 테스트 소환 · Shift+F 메뉴 · 등급 테두리 수정",
+      "body": "관리자 드래곤 테스트가 일반 월드의 몬스터 차단에 걸리던 문제를 수정했습니다. 등록된 테스트 본체/피격 부위만 해당 월드에서 허용하며 일반 몬스터 차단은 유지합니다. Shift+F 서버의7개 메뉴를 클라이언트가6개까지만 허용하던 오류를 수정했고 응답 오류/지연도 안내합니다. 등급 툴팁 장식의 표시 폭을24px에서3px로 줄여 글자 영역을 확보하고, 슬롯 테두리는 바깥쪽1px로 이동했습니다. 원본 그림·전투 수치·보상·강화 확률은 유지합니다. 게임 종료 후 런처 파일 검사로 ClientUI1.42.1 / AbyssDragonFix1을 받아주세요. FA+Player 공식 자동 설치 구성과 런처1.3.0은 유지합니다. 서버/게임은 실행하지 않았으며 실제 전투·UI는 사용자 인게임 확인이 필요합니다."
+    },
     {
       "date": "2026.10.31",
       "title": "FA+Player 1.1 공식 플레이어 모션",
@@ -246,11 +251,6 @@
       "date": "2026.10.22",
       "title": "T3 심연의 성채 · 붉은 달의 왕좌",
       "body": "Lv.35부터 도전 가능한 1~3인 T3 심연의 성채가 추가됩니다. 권장 전투력17,400은 안내이며 입장 제한이 아닙니다. 전초지·회랑·실험실·왕좌, 일반 병력4종·정예2종·4페이즈 군주와8개 패턴을 만나세요. 신규 T3 제작 재료3종, 정상 클리어 개인 보상과 회복 포션2~5개를 획득합니다. T3 무기·방어구는 이번 업데이트에 포함되지 않습니다. 서버 재시작과 런처 파일 검사 후 적용됩니다."
-    },
-    {
-      "date": "2026.10.22",
-      "title": "전투력 · 던전 권장 전투력 · 등급 테두리",
-      "body": "착용 장비와 영구 스탯 기반 전투력, 장비 비교 예상 전투력, 개인 권장 전투력을 추가했습니다. 광산 2,895 / 붉은 폐허 5,517 / 왕의 요새 7,470이며 입장 제한이 아닌 참고 지표입니다. 아이템 등급 테두리를 얇고 정돈된 형태로 통일했습니다. 기존 전투와 보상은 유지됩니다. 서버 재시작 및 런처 파일 검사 후 적용됩니다."
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",

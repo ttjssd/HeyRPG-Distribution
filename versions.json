@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.42.0",
+      "version": "1.42.1",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -88,11 +88,11 @@
     }
   ],
   "resourcePack": {
-    "version": "AbyssDragon1",
-    "sha256": "a7d0de8a3748156d08ede67c7bc20051512e8b0a45ff39120447dab9393fbd2e",
+    "version": "AbyssDragonFix1",
+    "sha256": "31c52cfc203ffea82c5a1e7712f7fc773648a07f9252da492fee09160dd0e9bd",
     "metadata": {
       "pack": {
-        "description": "HeyRPG AbyssDragon1 / ClientUI1.42.0 / Dragon raid + LEGACY rollback",
+        "description": "HeyRPG AbyssDragonFix1 / ClientUI1.42.1 / Dragon test + menu + grade frames",
         "min_format": [
           88,
           0
@@ -106,7 +106,7 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.2.0",
-  "buildId": "FAPlayer1",
+  "buildId": "AbyssDragonFix1",
   "authMode": "OFFICIAL_LAUNCHER",
   "playerAnimation": {
     "id": "fa-player-1.1",
