@@ -88,11 +88,11 @@
     }
   ],
   "resourcePack": {
-    "version": "GradeFrame15",
-    "sha256": "fe4da4b72344d9e64a96bcbe8760437390a7a47dfff54d5c83399850c40bc1a3",
+    "version": "RaidWarningAtlas1",
+    "sha256": "b978c853056f12510f4eceb99ae85c8f005790538c2de0083b7f2f602b402512",
     "metadata": {
       "pack": {
-        "description": "HeyRPG GradeFrame15 / ClientUI1.42.2 / original ornament15px + slot outset4px",
+        "description": "HeyRPG RaidWarningAtlas1 / original grade15px / raid breath warning texture fix",
         "min_format": [
           88,
           0
@@ -106,7 +106,7 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.2.0",
-  "buildId": "GradeFrame15",
+  "buildId": "RaidWarningAtlas1",
   "authMode": "OFFICIAL_LAUNCHER",
   "playerAnimation": {
     "id": "fa-player-1.1",
