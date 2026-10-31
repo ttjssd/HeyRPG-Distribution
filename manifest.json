@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.42.2",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/cffabd23ade4ad8c37d5b9d70745b0c41510358b/files/RPGCore-ClientUI.jar",
-      "sha256": "84fa6dcc9f8647296a2e9a0e91307564831831d34ce2d6fcbc3d5666bc7b00b5",
-      "size": 63120521,
+      "version": "1.43.0",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/24748888bb394bbf51a9ce55f5e1b325e63447e6/files/RPGCore-ClientUI.jar",
+      "sha256": "dacd3dbdba5570370c6b9dc68f25acda60c13b5d98415db28d49421df7089a5e",
+      "size": 63143946,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -89,10 +89,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "RaidWarningAtlas1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/b5eac360bb22611a6334dba5dbaf67ac01818c31/files/RPGStudioPack-Latest.zip",
-    "sha256": "b978c853056f12510f4eceb99ae85c8f005790538c2de0083b7f2f602b402512",
-    "size": 59384795,
+    "version": "AbyssFlame1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/24748888bb394bbf51a9ce55f5e1b325e63447e6/files/RPGStudioPack-Latest.zip",
+    "sha256": "1bf8ed9bf67f0ee00faa997015003d9bdb507341d75a2b3e4f315d67f39c572f",
+    "size": 59446964,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -102,6 +102,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.11.01",
+      "title": "심연의 고룡 — 입체 보라색 화염 브레스",
+      "body": "드래곤 브레스를 입 관절에서 퍼지는 입체 화염·불티·연기·지면 잔불로 개선했습니다. F8 LOW/MEDIUM/HIGH를 지원하며 바닥 경고와 플레이어 스킬 이펙트는 유지합니다. 기존 피해·쿨타임·페이즈·보상과 37개 관절 모델은 변경하지 않았습니다. 게임 종료 후 런처 파일 검사로 ClientUI 1.43.0 / AbyssFlame1을 적용하세요. 실제 게임은 실행하지 않았으며 인게임 확인은 사용자가 진행합니다. 관리자 테스트 및 LEGACY_BEAM 롤백을 제공합니다."
+    },
     {
       "date": "2026.11.01",
       "title": "드래곤 브레스 바닥 경고 텍스처 수정",
@@ -246,11 +251,6 @@
       "date": "2026.10.23",
       "title": "T3 심연의 단검 · 피격 데미지 숫자 복구",
       "body": "심연의 단검을 추가했습니다. 역수 전용 입체 모델과 T2 대비1.8배 착용 크기, 2번 그림자 베기 / 3번 그림자 투척 / 4번 암영의 질주 / 5번 심연의 연속참을 지원합니다. 기존 심연 재료120/32/12개와35000골드로 제작합니다. 몬스터 피격 숫자는 공격자에게 실제 최종 피해를 표시하며, 치명타와 8연타를 구분합니다. 기존 K키 딜량 미터·T3 검·보상·강화 공식은 유지합니다. 서버 재시작과 런처 파일 검사 후 적용됩니다."
-    },
-    {
-      "date": "2026.10.23",
-      "title": "T3 첫 무기 · 심연의 대검",
-      "body": "대장장이에서 심연의 강철 조각120개, 타락한 심연의 핵32개, 심연 군주의 문장12개와35000골드로 심연의 대검을 제작할 수 있습니다. 2번 단월참 / 3번 대지가르기 / 4번 심연의 쇄도 / 5번 붕괴 일격. 전용 대형 입체 모델과 붉은 착용 기운, 진홍색 참격·지면 파열을 추가했습니다. 같은 강화의 T2 검 대비 일반 조건 회전 피해는 약2배이며, 심연의 성채에서는+0부터 공명 출력 제한이 해방되어 저강화 T2와의 차이가 더 큽니다. 강화·보호권·복구·기존 보상은 유지합니다. 서버 재시작 및 런처 파일 검사 후 적용됩니다."
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",

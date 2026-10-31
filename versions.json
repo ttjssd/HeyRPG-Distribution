@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.42.2",
+      "version": "1.43.0",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -88,11 +88,11 @@
     }
   ],
   "resourcePack": {
-    "version": "RaidWarningAtlas1",
-    "sha256": "b978c853056f12510f4eceb99ae85c8f005790538c2de0083b7f2f602b402512",
+    "version": "AbyssFlame1",
+    "sha256": "1bf8ed9bf67f0ee00faa997015003d9bdb507341d75a2b3e4f315d67f39c572f",
     "metadata": {
       "pack": {
-        "description": "HeyRPG RaidWarningAtlas1 / original grade15px / raid breath warning texture fix",
+        "description": "RPGStudioPack | AbyssFlame1",
         "min_format": [
           88,
           0
@@ -106,7 +106,7 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.2.0",
-  "buildId": "RaidWarningAtlas1",
+  "buildId": "AbyssFlame1",
   "authMode": "OFFICIAL_LAUNCHER",
   "playerAnimation": {
     "id": "fa-player-1.1",
