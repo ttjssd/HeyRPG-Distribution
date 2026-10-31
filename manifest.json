@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.43.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/24748888bb394bbf51a9ce55f5e1b325e63447e6/files/RPGCore-ClientUI.jar",
-      "sha256": "dacd3dbdba5570370c6b9dc68f25acda60c13b5d98415db28d49421df7089a5e",
-      "size": 63143946,
+      "version": "1.43.1",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/3644e16434cea1dc81da6ad9c37ed6b734b6b265/files/RPGCore-ClientUI.jar",
+      "sha256": "38f7acd4a0269caad383fb9ccd7d0ac2fb28a9e434ac30b26d72d7e185ef863e",
+      "size": 63144363,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -105,7 +105,7 @@
     {
       "date": "2026.11.01",
       "title": "심연의 고룡 — 입체 보라색 화염 브레스",
-      "body": "드래곤 브레스를 입 관절에서 퍼지는 입체 화염·불티·연기·지면 잔불로 개선했습니다. F8 LOW/MEDIUM/HIGH를 지원하며 바닥 경고와 플레이어 스킬 이펙트는 유지합니다. 기존 피해·쿨타임·페이즈·보상과 37개 관절 모델은 변경하지 않았습니다. 게임 종료 후 런처 파일 검사로 ClientUI 1.43.0 / AbyssFlame1을 적용하세요. 실제 게임은 실행하지 않았으며 인게임 확인은 사용자가 진행합니다. 관리자 테스트 및 LEGACY_BEAM 롤백을 제공합니다."
+      "body": "드래곤 브레스를 입 관절에서 퍼지는 입체 화염·불티·연기·지면 잔불로 개선했습니다. F8 LOW/MEDIUM/HIGH를 지원하며 바닥 경고와 플레이어 스킬 이펙트는 유지합니다. 기존 피해·쿨타임·페이즈·보상과 37개 관절 모델은 변경하지 않았습니다. 게임 종료 후 런처 파일 검사로 ClientUI 1.43.1 / AbyssFlame1을 적용하세요. 실제 게임은 실행하지 않았으며 인게임 확인은 사용자가 진행합니다. 관리자 테스트 및 LEGACY_BEAM 롤백을 제공합니다. 카메라에서48블록 밖은 최대MEDIUM,96블록 밖은LOW로 조절하면서 핵심 화염과 바닥 경고는 보존합니다."
     },
     {
       "date": "2026.11.01",
