@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "launcherVersion": "1.2.0",
+  "launcherVersion": "1.3.0",
   "minecraftVersion": "26.2",
   "fabricLoader": "0.19.5",
   "mods": [
@@ -63,6 +63,28 @@
       "size": 1885572,
       "targetPath": "mods/sodium-fabric-0.9.2+mc26.2.jar",
       "required": true
+    },
+    {
+      "name": "Entity Model Features",
+      "version": "3.3.12",
+      "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/hyDf8pNd/entity_model_features-3.3.12-26.2-fabric.jar",
+      "sha256": "3a45fb9b028f6e2303438c74e91410223e8af503637956d876a75dd4f9af4af5",
+      "size": 665507,
+      "targetPath": "mods/entity_model_features-3.3.12-26.2-fabric.jar",
+      "required": true,
+      "modId": "entity_model_features",
+      "managed": true
+    },
+    {
+      "name": "Entity Texture Features",
+      "version": "7.2.6",
+      "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/p667cMa5/entity_texture_features-7.2.6-26.2-fabric.jar",
+      "sha256": "2e0118df6a1610d6712a8f05e87b9dd2a8ab06d77057243777c30fd664aed905",
+      "size": 793181,
+      "targetPath": "mods/entity_texture_features-7.2.6-26.2-fabric.jar",
+      "required": true,
+      "modId": "entity_texture_features",
+      "managed": true
     }
   ],
   "resourcePack": {
@@ -80,6 +102,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.10.31",
+      "title": "FA+Player 1.1 공식 플레이어 모션",
+      "body": "FA+Player1.1 / ETF7.2.6 / EMF3.3.12를 제작자의 공식 Modrinth 원본에서 자동 설치합니다. 세 파일은 사용자가 확인한 원본 해시와 동일하며 GitHub에 재업로드하지 않습니다. RPGStudioPack 위에 모션 팩을 자동 활성화하고 기존 설정·교체 파일을 백업합니다. Detailed Animations는 비활성화하며 사용자 파일은 삭제하지 않습니다. 모두 게임을 종료하고 런처1.3.0 업데이트와 파일 검사를 받아주세요. 설정의 공식 페이지/원본ZIP선택도 사용할 수 있습니다. ClientUI1.42.0 / AbyssDragon1과 서버 전투는 유지합니다. 실제 모션·스킨·장비 호환성은 사용자 인게임 확인이 필요합니다."
+    },
     {
       "date": "2026.10.31",
       "title": "칠흑의 파멸자 — 심연의 고룡 적용",
@@ -224,17 +251,12 @@
       "date": "2026.10.22",
       "title": "전투력 · 던전 권장 전투력 · 등급 테두리",
       "body": "착용 장비와 영구 스탯 기반 전투력, 장비 비교 예상 전투력, 개인 권장 전투력을 추가했습니다. 광산 2,895 / 붉은 폐허 5,517 / 왕의 요새 7,470이며 입장 제한이 아닌 참고 지표입니다. 아이템 등급 테두리를 얇고 정돈된 형태로 통일했습니다. 기존 전투와 보상은 유지됩니다. 서버 재시작 및 런처 파일 검사 후 적용됩니다."
-    },
-    {
-      "date": "2026.10.22",
-      "title": "골드 금액 표기 · 금화 아이콘 적용",
-      "body": "캐릭터·제작·강화·상점·던전 화면의 금액 옆 G 표기를 금화 텍스처로 교체했습니다. 기존 출석 금화 자산을 공용 아이콘으로 사용하며 숫자와 쉼표, 보유 금액과 재화 계산은 유지됩니다. ClientUI 업데이트와 게임 재실행 후 적용됩니다."
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
-  "launcherUpdateUrl": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/769b67352ca7c0a47a003ece11b2aaefd3d90883/HeyRPGLauncher.exe",
-  "launcherSha256": "3e9b5102cf2d6726a29e3bb47e4da8f0647e46bc753879312e4ed532b501e55f",
-  "launcherSize": 76474688,
+  "launcherUpdateUrl": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/38615ebc7173d60438c953d5b9b599b20ac349aa/HeyRPGLauncher.exe",
+  "launcherSha256": "72b92057354dde88f4c437ac1c4dffded871be8670c03c1c0a2edc295712c5ff",
+  "launcherSize": 76517184,
   "shader": {
     "id": "heyrpg-default-shader",
     "file": {
@@ -257,5 +279,76 @@
       "maxShadowRenderDistance": "32"
     },
     "recommendedPackOptions": {}
+  },
+  "playerAnimation": {
+    "id": "fa-player-1.1",
+    "components": [
+      {
+        "id": "entity_model_features",
+        "file": {
+          "name": "Entity Model Features",
+          "version": "3.3.12",
+          "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/hyDf8pNd/entity_model_features-3.3.12-26.2-fabric.jar",
+          "sha256": "3a45fb9b028f6e2303438c74e91410223e8af503637956d876a75dd4f9af4af5",
+          "size": 665507,
+          "targetPath": "mods/entity_model_features-3.3.12-26.2-fabric.jar",
+          "required": true,
+          "modId": "entity_model_features",
+          "managed": true
+        },
+        "source": "https://github.com/Traben-0/Entity_Model_Features",
+        "license": "https://github.com/Traben-0/Entity_Model_Features/blob/master/LICENSE",
+        "attribution": "Traben — Entity Model Features (LGPL-3.0)",
+        "manualDownload": false,
+        "dependencies": {
+          "fabricloader": "*",
+          "minecraft": "*",
+          "entity_texture_features": ">=7.2"
+        }
+      },
+      {
+        "id": "entity_texture_features",
+        "file": {
+          "name": "Entity Texture Features",
+          "version": "7.2.6",
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/p667cMa5/entity_texture_features-7.2.6-26.2-fabric.jar",
+          "sha256": "2e0118df6a1610d6712a8f05e87b9dd2a8ab06d77057243777c30fd664aed905",
+          "size": 793181,
+          "targetPath": "mods/entity_texture_features-7.2.6-26.2-fabric.jar",
+          "required": true,
+          "modId": "entity_texture_features",
+          "managed": true
+        },
+        "source": "https://github.com/Traben-0/Entity_Texture_Features",
+        "license": "https://github.com/Traben-0/Entity_Texture_Features/blob/master/LICENSE",
+        "attribution": "Traben — Entity Texture Features (LGPL-3.0)",
+        "manualDownload": false,
+        "dependencies": {
+          "fabricloader": "*",
+          "minecraft": "*"
+        }
+      },
+      {
+        "id": "fa-player",
+        "file": {
+          "name": "FA+Player-v1.1",
+          "version": "1.1",
+          "url": "https://cdn.modrinth.com/data/TAIMVZCL/versions/Wj7NeGjP/FA%2BPlayer-v1.1.zip",
+          "sha256": "9ee3ae5b2fe5cd980e4041429dc66d88243f5f2420e2814e5361c746ad937f33",
+          "size": 110203,
+          "targetPath": "resourcepacks/FA+Player-v1.1.zip",
+          "required": true,
+          "managed": true
+        },
+        "source": "https://modrinth.com/resourcepack/fa-player-extension/version/1.1.0",
+        "license": "https://www.curseforge.com/minecraft/texture-packs/fa-player-extension",
+        "attribution": "FreshLX — FA+Player 1.1. Unmodified official Modrinth download; not mirrored.",
+        "manualDownload": false,
+        "dependencies": {
+          "entity_model_features": "3.3.12",
+          "entity_texture_features": "7.2.6"
+        }
+      }
+    ]
   }
 }

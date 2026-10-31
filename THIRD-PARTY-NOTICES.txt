@@ -17,3 +17,17 @@ Policy: https://github.com/Septonious/Solas-Shader/blob/main/LICENSE
 The launcher downloads the unmodified archive from the official Modrinth CDN.
 The shader archive is not hosted in this repository or bundled in the launcher ZIP.
 Independent hosting and public modified versions require the author’s permission.
+
+
+FAPlayer1 official-source components (not mirrored in this repository):
+FreshLX — Fresh Animations: Player Extension 1.1 (Modrinth version 1.1.0).
+Official page: https://modrinth.com/resourcepack/fa-player-extension/version/1.1.0
+License/terms: https://www.curseforge.com/minecraft/texture-packs/fa-player-extension
+All Rights Reserved; no copy of the pack is uploaded here. Launcher downloads the unmodified official Modrinth file.
+Traben — Entity Texture Features 7.2.6, Entity Model Features 3.3.12, Fabric 26.2.
+Official sources and LGPL-3.0 license texts:
+https://github.com/Traben-0/Entity_Texture_Features
+https://github.com/Traben-0/Entity_Texture_Features/blob/master/LICENSE
+https://github.com/Traben-0/Entity_Model_Features
+https://github.com/Traben-0/Entity_Model_Features/blob/master/LICENSE
+Unmodified binaries are obtained from official Modrinth CDN links recorded with pinned SHA-256 in manifest.json.

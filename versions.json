@@ -73,6 +73,16 @@
         "fabric-rendering-fluids-v1": ">=2.0.0",
         "fabric-resource-loader-v0": "*"
       }
+    },
+    {
+      "filename": "entity_model_features-3.3.12-26.2-fabric.jar",
+      "version": "3.3.12",
+      "sha256": "3a45fb9b028f6e2303438c74e91410223e8af503637956d876a75dd4f9af4af5"
+    },
+    {
+      "filename": "entity_texture_features-7.2.6-26.2-fabric.jar",
+      "version": "7.2.6",
+      "sha256": "2e0118df6a1610d6712a8f05e87b9dd2a8ab06d77057243777c30fd664aed905"
     }
   ],
   "resourcePack": {
@@ -94,6 +104,83 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.2.0",
-  "buildId": "AbyssDragon1",
-  "authMode": "OFFICIAL_LAUNCHER"
+  "buildId": "FAPlayer1",
+  "authMode": "OFFICIAL_LAUNCHER",
+  "playerAnimation": {
+    "id": "fa-player-1.1",
+    "components": [
+      {
+        "id": "entity_model_features",
+        "file": {
+          "name": "Entity Model Features",
+          "version": "3.3.12",
+          "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/hyDf8pNd/entity_model_features-3.3.12-26.2-fabric.jar",
+          "sha256": "3a45fb9b028f6e2303438c74e91410223e8af503637956d876a75dd4f9af4af5",
+          "size": 665507,
+          "targetPath": "mods/entity_model_features-3.3.12-26.2-fabric.jar",
+          "required": true,
+          "modId": "entity_model_features",
+          "managed": true
+        },
+        "source": "https://github.com/Traben-0/Entity_Model_Features",
+        "license": "https://github.com/Traben-0/Entity_Model_Features/blob/master/LICENSE",
+        "attribution": "Traben — Entity Model Features (LGPL-3.0)",
+        "manualDownload": false,
+        "dependencies": {
+          "fabricloader": "*",
+          "minecraft": "*",
+          "entity_texture_features": ">=7.2"
+        }
+      },
+      {
+        "id": "entity_texture_features",
+        "file": {
+          "name": "Entity Texture Features",
+          "version": "7.2.6",
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/p667cMa5/entity_texture_features-7.2.6-26.2-fabric.jar",
+          "sha256": "2e0118df6a1610d6712a8f05e87b9dd2a8ab06d77057243777c30fd664aed905",
+          "size": 793181,
+          "targetPath": "mods/entity_texture_features-7.2.6-26.2-fabric.jar",
+          "required": true,
+          "modId": "entity_texture_features",
+          "managed": true
+        },
+        "source": "https://github.com/Traben-0/Entity_Texture_Features",
+        "license": "https://github.com/Traben-0/Entity_Texture_Features/blob/master/LICENSE",
+        "attribution": "Traben — Entity Texture Features (LGPL-3.0)",
+        "manualDownload": false,
+        "dependencies": {
+          "fabricloader": "*",
+          "minecraft": "*"
+        }
+      },
+      {
+        "id": "fa-player",
+        "file": {
+          "name": "FA+Player-v1.1",
+          "version": "1.1",
+          "url": "https://cdn.modrinth.com/data/TAIMVZCL/versions/Wj7NeGjP/FA%2BPlayer-v1.1.zip",
+          "sha256": "9ee3ae5b2fe5cd980e4041429dc66d88243f5f2420e2814e5361c746ad937f33",
+          "size": 110203,
+          "targetPath": "resourcepacks/FA+Player-v1.1.zip",
+          "required": true,
+          "managed": true
+        },
+        "source": "https://modrinth.com/resourcepack/fa-player-extension/version/1.1.0",
+        "license": "https://www.curseforge.com/minecraft/texture-packs/fa-player-extension",
+        "attribution": "FreshLX — FA+Player 1.1. Unmodified official Modrinth download; not mirrored.",
+        "manualDownload": false,
+        "dependencies": {
+          "entity_model_features": "3.3.12",
+          "entity_texture_features": "7.2.6"
+        }
+      }
+    ]
+  },
+  "launcher": {
+    "version": "1.3.0",
+    "sha256": "72b92057354dde88f4c437ac1c4dffded871be8670c03c1c0a2edc295712c5ff",
+    "size": 76517184,
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/38615ebc7173d60438c953d5b9b599b20ac349aa/HeyRPGLauncher.exe"
+  }
 }
