@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.42.1",
+      "version": "1.42.2",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -88,11 +88,11 @@
     }
   ],
   "resourcePack": {
-    "version": "AbyssDragonFix1",
-    "sha256": "31c52cfc203ffea82c5a1e7712f7fc773648a07f9252da492fee09160dd0e9bd",
+    "version": "GradeFrame15",
+    "sha256": "fe4da4b72344d9e64a96bcbe8760437390a7a47dfff54d5c83399850c40bc1a3",
     "metadata": {
       "pack": {
-        "description": "HeyRPG AbyssDragonFix1 / ClientUI1.42.1 / Dragon test + menu + grade frames",
+        "description": "HeyRPG GradeFrame15 / ClientUI1.42.2 / original ornament15px + slot outset4px",
         "min_format": [
           88,
           0
@@ -106,7 +106,7 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.2.0",
-  "buildId": "AbyssDragonFix1",
+  "buildId": "GradeFrame15",
   "authMode": "OFFICIAL_LAUNCHER",
   "playerAnimation": {
     "id": "fa-player-1.1",

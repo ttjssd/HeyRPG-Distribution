@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.42.1",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/cd8ec09a3b11bc9e9fabbe26c790513a2c141fc3/files/RPGCore-ClientUI.jar",
-      "sha256": "bd14e2068820fcccd0e96f893936549a092eddce0d8fa8fb3ae633d0cc3de617",
-      "size": 63116127,
+      "version": "1.42.2",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/cffabd23ade4ad8c37d5b9d70745b0c41510358b/files/RPGCore-ClientUI.jar",
+      "sha256": "84fa6dcc9f8647296a2e9a0e91307564831831d34ce2d6fcbc3d5666bc7b00b5",
+      "size": 63120521,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -89,10 +89,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "AbyssDragonFix1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/cd8ec09a3b11bc9e9fabbe26c790513a2c141fc3/files/RPGStudioPack-Latest.zip",
-    "sha256": "31c52cfc203ffea82c5a1e7712f7fc773648a07f9252da492fee09160dd0e9bd",
-    "size": 59384681,
+    "version": "GradeFrame15",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/cffabd23ade4ad8c37d5b9d70745b0c41510358b/files/RPGStudioPack-Latest.zip",
+    "sha256": "fe4da4b72344d9e64a96bcbe8760437390a7a47dfff54d5c83399850c40bc1a3",
+    "size": 59384739,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -102,6 +102,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.11.01",
+      "title": "등급 장식 복원 — 툴팁15px · 슬롯 총4px",
+      "body": "승인된 원본 등급 장식을15px로 복원하고 글자를 테두리에서24px 안쪽에 배치했습니다. 긴 툴팁은 화면에 맞춰 조절하며 바깥 장식이 잘리지 않도록 위치를 계산합니다. 슬롯 등급 장식은 바깥쪽 총4px입니다. 원본 그림·등급 색상·아이템 설명·전투 수치는 유지했습니다. 게임 종료 후 런처 파일 검사로 ClientUI1.42.2 / GradeFrame15를 받아주세요. 서버 Core·드래곤·Shift+F 수정과 FA+Player 공식 설치 구성은 유지합니다. 실제 인게임 표시 확인은 사용자 진행입니다."
+    },
     {
       "date": "2026.10.31",
       "title": "드래곤 테스트 소환 · Shift+F 메뉴 · 등급 테두리 수정",
@@ -246,11 +251,6 @@
       "date": "2026.10.23",
       "title": "T3 전투 리워크 · 장비 공명 · 정예와 붉은 월식",
       "body": "심연의 성채 권장 장비는 T2 방어구 각 +5 / 무기 +7입니다. T3 전용 공명은 저강화 출력과 심연 압력을 조정하며 입장은 계속 자유입니다. 정예2종은 각4스킬, 군주는 기존8종을 유지한 총12패턴과4단계 로테이션을 사용합니다. 최종 월식은 청록 성소를 찾아야 하며3회 피격 낙인 붕괴를 주의하세요. 38종 VFX 텍스처와 장비 안내를 추가했습니다. 기존 보상·전역 활/근접/방어·부적·강화 공식은 유지됩니다. 서버 재시작 및 런처 파일 검사 후 적용됩니다."
-    },
-    {
-      "date": "2026.10.22",
-      "title": "T3 심연의 성채 · 붉은 달의 왕좌",
-      "body": "Lv.35부터 도전 가능한 1~3인 T3 심연의 성채가 추가됩니다. 권장 전투력17,400은 안내이며 입장 제한이 아닙니다. 전초지·회랑·실험실·왕좌, 일반 병력4종·정예2종·4페이즈 군주와8개 패턴을 만나세요. 신규 T3 제작 재료3종, 정상 클리어 개인 보상과 회복 포션2~5개를 획득합니다. T3 무기·방어구는 이번 업데이트에 포함되지 않습니다. 서버 재시작과 런처 파일 검사 후 적용됩니다."
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
