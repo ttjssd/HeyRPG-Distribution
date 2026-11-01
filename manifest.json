@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.44.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/c4851e06db02376fc89c9291d3a6feccc42bf289/files/RPGCore-ClientUI.jar",
-      "sha256": "0535adba106c7490d51ef0c1fad8a11927462d5bba47fbd8f5c9a90795b727d3",
-      "size": 63158335,
+      "version": "1.44.1",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/627ad7d3c55ca3ce95d876aa7454e1484b175161/files/RPGCore-ClientUI.jar",
+      "sha256": "116ebfc13fd080a662b82047e75f359e15346b0913a014b5a2f61d0c05f4dd99",
+      "size": 63158314,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -102,6 +102,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.11.01",
+      "title": "강화 UI 중복 테두리 정리",
+      "body": "강화 장비 선택과 미리보기에서 슬롯 테두리 밖에 겹치던 별도 장식 테두리를 제거했습니다. 슬롯의 등급 테두리는 유지합니다. 활 강화와 모든 강화 확률·피해·비용은 변경하지 않았습니다. 게임 종료 후 런처 파일 검사로 ClientUI1.44.1을 적용하세요. 리소스팩은 GradeCinematic1 그대로입니다."
+    },
     {
       "date": "2026.11.01",
       "title": "Studio 강화 재료 안내 · 기본 장비 등급 표시",
@@ -246,11 +251,6 @@
       "date": "2026.10.24",
       "title": "부적 상점 전용 UI 호환 수정 · 편의 개선",
       "body": "서버와 ClientUI의 부적 화면 버전 불일치를 해결했습니다. 부적 일괄 분해, 중급 회복 포션, 성직자 보호막과 T2 단검 타격 이펙트 개선이 포함됩니다. 게임을 종료하고 런처 파일 검사 후 다시 실행해주세요. ClientUI 1.31.1 / LivePlayPolish1."
-    },
-    {
-      "date": "2026.10.24",
-      "title": "잠재능력 큐브 사용 오류 및 허공 우클릭 수정",
-      "body": "Paper 26.2의 43칸 인벤토리와 잠재능력 기록의 41칸 제한 충돌을 수정했습니다. 큐브를 허공에 우클릭하면 각인 UI가 열리며 T2 이상 장비를 선택해 사용할 수 있습니다. 기존 옵션 유지·새 옵션 적용과 미확정 결과 보존은 유지됩니다. 오류 안내 반복도 제한했습니다. 서버 재시작 후 적용되며 ClientUI 1.31.0과 AbyssalPotential1 팩은 그대로 사용합니다."
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
