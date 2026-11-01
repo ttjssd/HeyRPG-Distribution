@@ -88,11 +88,11 @@
     }
   ],
   "resourcePack": {
-    "version": "UiCombatPolish1",
-    "sha256": "557e6c12ddc329071d4516d7c3e6bb97cdc5485a2fe77e22436758648ebdc3cf",
+    "version": "UiCombatPolish2",
+    "sha256": "93c9d80a0ace9c9e25888696d630b18806ba2567eafa7b0d59ddf93e34b4fc95",
     "metadata": {
       "pack": {
-        "description": "RPGStudioPack | UiCombatPolish1",
+        "description": "RPGStudioPack | UiCombatPolish2",
         "min_format": [
           88,
           0
@@ -106,7 +106,7 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.2.0",
-  "buildId": "UiCombatPolish1",
+  "buildId": "UiCombatPolish2",
   "authMode": "OFFICIAL_LAUNCHER",
   "playerAnimation": {
     "id": "fa-player-1.1",

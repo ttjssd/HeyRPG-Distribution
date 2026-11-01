@@ -89,10 +89,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "UiCombatPolish1",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/688aa485616b7bee5688425da7ec18fc3f4f9957/files/RPGStudioPack-Latest.zip",
-    "sha256": "557e6c12ddc329071d4516d7c3e6bb97cdc5485a2fe77e22436758648ebdc3cf",
-    "size": 66414346,
+    "version": "UiCombatPolish2",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/9f95e4e1b2d94a50e3a73dd39c9978c2e00146b7/files/RPGStudioPack-Latest.zip",
+    "sha256": "93c9d80a0ace9c9e25888696d630b18806ba2567eafa7b0d59ddf93e34b4fc95",
+    "size": 66414340,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -102,6 +102,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.11.02",
+      "title": "T3 단검 역수 각도 조정",
+      "body": "T3 심연의 단검 칼끝을 기존보다 10도 위로 조정했습니다. 손잡이 기준점과 기존 크기를 유지하며 양손의 1인칭·3인칭 표시를 맞췄습니다. ClientUI 1.47.0과 Core는 변경하지 않았습니다. 런처 파일 검사로 리소스팩 UiCombatPolish2를 적용하세요. 게임은 실행하지 않았으며 실제 착용감은 인게임에서 확인해주세요."
+    },
     {
       "date": "2026.11.02",
       "title": "스킬 UI·방패 HUD·검과 단검 3D 연출 개선",
@@ -246,11 +251,6 @@
       "date": "2026.10.24",
       "title": "강화 전승 추가 · ClientUI 1.33.0",
       "body": "대장장이 → 장비 강화 → 강화 전승에서 같은 무기 계열/방어구 부위의 바로 다음 티어 장비로 강화 성과를 이어갈 수 있습니다. +4~5→+1, +6~7→+2, +8~9→+3, +10→+4, 성공률 100%. T2→T3 비용은 100/250/500/900골드입니다. 재료 장비는 소모되며 그 잠재능력·옵션은 전승되지 않습니다. 대상의 기존 잠재능력·옵션은 보존합니다. 장착/무기 슬롯 등록을 해제하고 가방에서 선택한 뒤 미리보기와 최종 확인을 진행하세요. 기존 강화 확률과 전투·보상 수치는 유지합니다. 서버 재시작과 런처 파일 검사 후 적용됩니다. Accessories2 리마스터와 보스전 VFX 핫픽스를 포함합니다."
-    },
-    {
-      "date": "2026.10.24",
-      "title": "T2·T3 보스전 플레이어 VFX 동시 출력 수정",
-      "body": "보스 패턴 중 본인·파티원의 스킬 이펙트가 숨겨지거나 삭제되던 문제를 수정했습니다. 같은 위치에서 같은 스킬을 사용하는 이펙트와 투사체를 캐스트별로 분리하고 연속 전투의 VFX 예산 기록 고갈을 해결했습니다. 피해량·쿨타임·타격·보스 AI·보상은 변경하지 않았습니다. 악세사리 외형 리마스터 Accessories2를 유지합니다. 서버 재시작 후 적용되며, 클라이언트는 기존 1.32.0과 호환됩니다. 런처 파일 검사로 리소스팩을 확인해주세요."
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
