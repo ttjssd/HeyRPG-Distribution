@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.43.1",
+      "version": "1.44.0",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -88,11 +88,11 @@
     }
   ],
   "resourcePack": {
-    "version": "AbyssFlame1",
-    "sha256": "1bf8ed9bf67f0ee00faa997015003d9bdb507341d75a2b3e4f315d67f39c572f",
+    "version": "GradeCinematic1",
+    "sha256": "f4b9fe9012b8b89d70c3fe3d6d4fc55a99eac42462cf5228794abf3397e498d4",
     "metadata": {
       "pack": {
-        "description": "RPGStudioPack | AbyssFlame1",
+        "description": "RPGStudioPack | GradeCinematic1",
         "min_format": [
           88,
           0
@@ -106,7 +106,7 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.2.0",
-  "buildId": "AbyssFlame1",
+  "buildId": "GradeCinematic1",
   "authMode": "OFFICIAL_LAUNCHER",
   "playerAnimation": {
     "id": "fa-player-1.1",
