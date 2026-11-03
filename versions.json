@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.47.0",
+      "version": "1.47.3",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -88,11 +88,11 @@
     }
   ],
   "resourcePack": {
-    "version": "UiCombatPolish2",
-    "sha256": "93c9d80a0ace9c9e25888696d630b18806ba2567eafa7b0d59ddf93e34b4fc95",
+    "version": "RaidUiForge1",
+    "sha256": "3faba48ff6d4f0d4214e5fccc9dec2e826ffa59c5e013dba64172222a2820807",
     "metadata": {
       "pack": {
-        "description": "RPGStudioPack | UiCombatPolish2",
+        "description": "RPGStudioPack | RaidUiForge1",
         "min_format": [
           88,
           0
@@ -106,7 +106,7 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.2.0",
-  "buildId": "UiCombatPolish2",
+  "buildId": "RaidUiForge1",
   "authMode": "OFFICIAL_LAUNCHER",
   "playerAnimation": {
     "id": "fa-player-1.1",

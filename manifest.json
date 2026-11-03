@@ -37,10 +37,10 @@
     {
       "name": "RPGCore Client UI",
       "modId": "rpgcore_enhancement_gui",
-      "version": "1.47.0",
-      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/688aa485616b7bee5688425da7ec18fc3f4f9957/files/RPGCore-ClientUI.jar",
-      "sha256": "6629d71515d8d7f38095b8459e363f8871d58c87a263e6254926b906e1f6b48b",
-      "size": 63189963,
+      "version": "1.47.3",
+      "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/f4b9d1016dbbdd2d82794abfb15640113f578b1d/files/RPGCore-ClientUI.jar",
+      "sha256": "b1232a483152f03f0d6cd2cfaeebb16210e330e1bffcb73dc03e910de6a0f130",
+      "size": 63216148,
       "targetPath": "mods/RPGCore-ClientUI.jar",
       "required": true
     },
@@ -89,10 +89,10 @@
   ],
   "resourcePack": {
     "name": "RPGStudioPack",
-    "version": "UiCombatPolish2",
-    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/9f95e4e1b2d94a50e3a73dd39c9978c2e00146b7/files/RPGStudioPack-Latest.zip",
-    "sha256": "93c9d80a0ace9c9e25888696d630b18806ba2567eafa7b0d59ddf93e34b4fc95",
-    "size": 66414340,
+    "version": "RaidUiForge1",
+    "url": "https://raw.githubusercontent.com/ttjssd/HeyRPG-Distribution/f4b9d1016dbbdd2d82794abfb15640113f578b1d/files/RPGStudioPack-Latest.zip",
+    "sha256": "3faba48ff6d4f0d4214e5fccc9dec2e826ffa59c5e013dba64172222a2820807",
+    "size": 74394378,
     "targetPath": "resourcepacks/RPGStudioPack-Latest.zip",
     "required": true
   },
@@ -102,6 +102,11 @@
     "port": 25565
   },
   "news": [
+    {
+      "date": "2026.11.03",
+      "title": "레이드 파티 UI 복구 · 퀘스트 창 조절 · 경매장 통신 수정",
+      "body": "레이드 입장·관문·정예·제단 진행 중에도 플레이어와 AI 동료 파티 HP를 표시합니다. F8 → 레이드 퀘스트 창 위치 / 크기에서 드래그 이동·휠 확대/축소·설정 저장을 지원합니다. 경매장 클릭은 채팅 명령어 대신 전용 패킷으로 전송하며 기존 스팸 보호와 거래 검증을 유지합니다. 승인된 T3 대검 3번 대지가르기 Forge 메시 및 심연 재질을 적용했습니다. 기존 스킬 피해·범위·횟수·쿨타임과 날개·고리는 유지합니다. Core는 다음 서버 시작 시 적용됩니다. 너와 친구 모두 런처 파일 검사 후 접속하세요. 실제 인게임 검증 전이며 이번에 제보된 Connection reset의 네트워크 원인은 아직 특정되지 않았습니다."
+    },
     {
       "date": "2026.11.02",
       "title": "T3 단검 역수 각도 조정",
@@ -246,11 +251,6 @@
       "date": "2026.10.25",
       "title": "왕국 통합 경매장 출시 · ClientUI 1.34.0",
       "body": "왕국 경매장 관리인에게서 지정가 판매·경쟁 경매·특별 경매, 검색·필터·장비 비교, 내 판매·입찰·거래 기록과 우편함을 이용할 수 있습니다. 등록료 1%(최소 10골드), 완료 수수료 5%, 입찰 증가 5%, 최대 등록 10개, 경매 시간 30분/2시간/6시간입니다. 입찰금은 즉시 예치되며 상위 입찰 환불과 낙찰품·판매 대금은 우편함에서 수령합니다. AI 상인 3종은 유한 예산·공급 제한 안에서 거래합니다. NPC는 서버 시작 시 등록관 옆 안전 공간에 배치됩니다. 원본 강화·잠재능력·악세사리 옵션을 보존하며 기존 강화 전승·전투·VFX·보상 수치는 유지합니다. 서버 시작 후 런처 파일 검사를 진행하세요."
-    },
-    {
-      "date": "2026.10.24",
-      "title": "강화 전승 추가 · ClientUI 1.33.0",
-      "body": "대장장이 → 장비 강화 → 강화 전승에서 같은 무기 계열/방어구 부위의 바로 다음 티어 장비로 강화 성과를 이어갈 수 있습니다. +4~5→+1, +6~7→+2, +8~9→+3, +10→+4, 성공률 100%. T2→T3 비용은 100/250/500/900골드입니다. 재료 장비는 소모되며 그 잠재능력·옵션은 전승되지 않습니다. 대상의 기존 잠재능력·옵션은 보존합니다. 장착/무기 슬롯 등록을 해제하고 가방에서 선택한 뒤 미리보기와 최종 확인을 진행하세요. 기존 강화 확률과 전투·보상 수치는 유지합니다. 서버 재시작과 런처 파일 검사 후 적용됩니다. Accessories2 리마스터와 보스전 VFX 핫픽스를 포함합니다."
     }
   ],
   "microsoftClientId": "6338bfa8-d482-4faa-9565-281ae10f0fbe",
