@@ -42,7 +42,7 @@
     {
       "id": "rpgcore_enhancement_gui",
       "filename": "RPGCore-ClientUI.jar",
-      "version": "1.47.3",
+      "version": "1.47.4",
       "license": null,
       "depends": {
         "fabricloader": ">=0.19.5",
@@ -88,11 +88,11 @@
     }
   ],
   "resourcePack": {
-    "version": "RaidUiForge1",
-    "sha256": "3faba48ff6d4f0d4214e5fccc9dec2e826ffa59c5e013dba64172222a2820807",
+    "version": "AbyssHeldAura1",
+    "sha256": "7a2ec7b84c259cb254eb31114f223d49528f9a00b26cce4d96518fa76cb94c6c",
     "metadata": {
       "pack": {
-        "description": "RPGStudioPack | RaidUiForge1",
+        "description": "RPGStudioPack | AbyssHeldAura1",
         "min_format": [
           88,
           0
@@ -106,7 +106,7 @@
   },
   "authenticationConfigured": true,
   "launcherVersion": "1.2.0",
-  "buildId": "RaidUiForge1",
+  "buildId": "AbyssHeldAura1",
   "authMode": "OFFICIAL_LAUNCHER",
   "playerAnimation": {
     "id": "fa-player-1.1",
